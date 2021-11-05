@@ -1,0 +1,21 @@
+1. list of content/parts 
+- all needed on a website
+
+2. wireframe  
+- site layout
+
+3. style guide 
+- colors
+- typography
+- logos 
+- buttons
+
+4. illustration 
+- designing the elements in adobe photoshop / illustrator 
+
+5. mockup & design 
+- designing the website on adobe xd / sketch
+- putting actual text and content
+
+6. coding
+- building the actual website

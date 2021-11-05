@@ -1,0 +1,72 @@
+"An expensive tool in the hand of a novice, 
+will never be as good as a cheap tool in the hand of a master."
+
+https://color.adobe.com/create/color-wheel/		- ADOBE COLOR GENERATOR
+https://coolors.co/					- COLOR PALLETE GENERATOR
+https://www.materialpalette.com/			- COLOR, ICONS, AND PREVIEW
+https://www.materialui.co/				- COLOR AND ICONS
+http://www.flaticon.com/				- FREE ICONS
+https://www.canva.com/color-palette/			- IMAGE COLOR PALLETE GENERATOR
+https://source.unsplash.com/				- IMAGE PLACEHOLDER
+https://www.canva.com/					- DESIGNING WEBSITE
+https://fonts.google.com/				- GOOGLE ONLINE/OFFLINE FONTS
+http://fontawesome.io/					- ICONIC FONT AND CSS TOOLKIT
+https://www.fontsquirrel.com/				- FONTS AND WEBKITS
+https://www.toptal.com/designers/subtlepatterns/	- WEB PATTERNS AND TEXTURES
+https://linearicons.com/free				- VECTOR ICONS
+https://validator.w3.org/				- VALIDATION CHECKER
+http://mydevice.io/devices/				- DEVICE SCREEN SIZES
+https://caniuse.com/					- WEB ELEMENTS BROWSER SUPPORT COMPATIBILITY
+http://slipsum.com/lite/				- LOREM IPSUM GENERATOR
+http://lorizzle.nl/?feed=1				- LOREM LITE GENERATOR
+http://www.spritecow.com/				- GENERATE CSS SPRITE CODE FOR BACKGROUND POSITIONING
+http://css3please.com/					- CROSS BROWSER CSS RULE GENERATOR
+http://r12a.github.io/apps/conversion/			- HEXADECIMAL UNICODE CODE CONVERTER
+http://regexr.com/					- REGULAR EXPRESSION TESTER WITH SYNTAX HIGHLIGHTING
+https://html5boilerplate.com/				- HTML5 BOILERPLATE TEMPLATE
+http://www.colorzilla.com/				- COLOR PICKER / GRADIENT GENERATOR
+http://www.cssmatic.com/				- NOISE TEXTURE / BORDER RADIUS GENERATOR
+http://pleeease.io/					- CSS MADE EASY TOOLS 
+https://modernizr.com/					- JAVASCRIPT LIBRARY ALTERNATIVE FALLBACK BROWSER SUPPORT
+https://specificity.keegan.st/				- CSS SPECIFICITY CALCULATOR
+https://autoprefixer.github.io/				- ONLINE VENDOR AUTOPREFIXER						
+http://www.xpathtester.com/				- XPATH TESTER & XML VALIDATOR
+https://jsfiddle.net/					- JS FILE TESTER
+http://codepen.io/					- DEVELOPER'S PLAYGROUND
+https://work.smarchal.com/twbscolor/			- BOOTSTRAP COLOR CUSTOMIZATION
+https://hackerthemes.com/bootstrap-4-grid-psd/		- BOOTSTRAP 4 GRID PSD TEMPLATES
+https://bennettfeely.com/clippy/			- CSS CLIP PATH GENERATOR
+https://bootswatch.com/					- CUSTOM FREE BOOTSTRAP THEMES
+http://webhook.site/					- TESTING HTTP REQUEST
+https://ngrok.com/					- ACCESS YOUR LOCALHOST WEBSITE ANYWHERE VIA TUNNEL
+
+======================================
+BROWSER SUPPORT & COMPATIBILITY LINKS
+======================================
+
+http://caniuse.com 
+http://gs.statcounter.com 
+http://developer.mozilla.org 
+http://chromestatus.com 
+https://developer.microsoft.com/en-us/microsoft-edge/platform/status/
+http://webkit.org/status 
+http://platform-status.mozilla.org 
+http://bugzilla.mozilla.org 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

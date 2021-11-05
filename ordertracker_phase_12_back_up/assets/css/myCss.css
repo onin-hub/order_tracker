@@ -1,0 +1,39 @@
+.container.loginWrapper {
+    margin-top: 100px;
+    max-width: 500px;
+}
+
+  /* On screens that are 992px or less, set the background color to blue */
+  @media screen and (max-width: 992px) {
+    .container.loginWrapper {
+        margin-top: 100px;
+        max-width: 500px;
+    }
+  }
+  
+  /* On screens that are 600px or less, set the background color to olive */
+  @media screen and (max-width: 600px) {
+    .container.loginWrapper {
+        margin-top: 100px;
+        max-width: 500px;
+    }
+  }
+
+/* in beetween media query */
+  /* @media screen and (max-width: 992px) and (min-width: 500px) {
+    .container.loginWrapper {
+        max-width: 90%;
+        margin-top: 50px;
+    }
+
+  } */
+
+
+  span.logo_title.mt-5 {
+    color: white;
+}
+
+input.btn.btn-outline-danger.float-right.login_btn {
+    color: white;
+    background-color: #dc3545;
+}

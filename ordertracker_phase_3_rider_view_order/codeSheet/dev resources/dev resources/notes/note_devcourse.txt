@@ -1,0 +1,659 @@
+(*) - DOWNLOADED PLAYLIST
+(+) - WATCHED PLAYLIST
+
+
+****************************************************************
+			DESIGN COURSES
+****************************************************************
+https://www.youtube.com/watch?v=etYmjpClMAM&list=PLgGbWId6zgaVEv9ivPTDsY1ZbR9hMBpLU		'WEB DESIGN BY ENVATO TUTS 2015 (45)*
+https://www.youtube.com/watch?v=jE1EU1ACe6s&list=PLJ21zHI2TNh-rX-Xr_xi9KIEcbdee_1Ah		'MATERIAL DESIGN BY GOOGLEDESIGN 2016 (7)
+https://www.youtube.com/watch?v=vb-VlKkztfQ&index=4&list=PLJ21zHI2TNh86cqc4UappsOY5wWTCKSl3	'DESIGN CASESTUDY BY GOOGLEDESIGN 2016 (4)
+https://www.youtube.com/watch?v=xYkz0Ueg0L4&list=PLJ21zHI2TNh9hcG0FFb4GVnHhTLGYtkfo		'MATERIAL DESIGN 2 BY GOOGLEDESIGN 2015 (6)
+https://www.youtube.com/watch?v=Xtu7ZOQScrI&list=PLJ21zHI2TNh_PXy1yRTa6LNsrZ_U5Msby		'MATERIAL DESIGN HIGHLIGHTS BY GOOGLEDESIGN 2015 (7)
+https://www.youtube.com/watch?v=7JjYOl6xNrw&list=PLD6pbWV1WAgM_L_aHhngbO9XFxo2lISUg		'WEB DESIGN SPEED ART BY CALER EDWARDS 2016 (29)*
+https://www.youtube.com/watch?v=cGfLZWQUD4g&list=PLD6pbWV1WAgN-5grXqTC07V0VxY99757C		'WEB DESIGN SPEED ART 2 BY CALER EDWARDS 2016 (5)
+https://www.youtube.com/watch?v=0JRur3_Ycxc&list=PLD6pbWV1WAgMo4QKJVDqL-mkiFnQ_Xp2_		'NAVIGATION MENU ADOBE XD TUTORIALS BY CALER EDWARDS 2015 (3)
+https://www.youtube.com/watch?v=Hwd9PdUG4LQ&list=PLACrzJJ0BfdxSdjNkLnQ3-Xn2RQ0BTIM2		'WEB DESIGN SPEED ART BY NIKLAS JAKOB 2015 (8)
+https://www.youtube.com/watch?v=5iYieWYaDTo&index=1&list=PLACrzJJ0Bfdxwc60E10FU_LugxzgUXvQ3	'APP DESIGN SPEED ART BY NIKLAS JAKOB 2015 (2)
+https://www.youtube.com/watch?v=W7tBfU8FZoI&list=PLACrzJJ0Bfdxi6AflUFrlfkWcZVTMnxyA		'UI DESIGN SPEED ART BY NIKLAS JAKOB 2015 (13)
+https://www.youtube.com/watch?v=Y54hd80NIDk&list=PL0lNJEnwfVVOw02IUf6qN6HGQYlFpOcLq		'FRONT END DESIGNS BY COURSETRO (13)
+https://www.youtube.com/watch?v=pvWkyyHxlQU&list=PL0lNJEnwfVVMFtytam76SzhboQfhtX65a		'UI DESIGN BY DESIGNCOURSE 2015 (76)
+https://www.youtube.com/watch?v=hqYIe5Y76oY&list=PLzKJi2GjpkEG_sFPg3XB-AMeL9XpM1QdW		'BUSSINESS AND DESIGN SEASON 1 BY THEFUTUR 2015 (57)
+https://www.youtube.com/watch?v=DLeSPCTA9Wg&list=PLzKJi2GjpkEGMqdf_qpM8PWmYWTQexECv		'BUSSINESS AND DESIGN SEASON 2 BY THEFUTUR 2016 (29)
+https://www.youtube.com/watch?v=CJnfAXlBRTE&list=PLzKJi2GjpkEELRD-YatYYLyItQ9O_MPU8		'UX/UI DESIGN BY THEFUTUR 2015 (16)
+https://www.youtube.com/watch?v=pR7tMnKghDs&list=PLzKJi2GjpkEHa6aTy6PmvbUTKoFUes-DQ		'IDENTITY DESIGN-BRANDING BY THEFUTUR 2014 (8)
+https://www.youtube.com/watch?v=RKXZ7t_RiOE&list=PLzKJi2GjpkEHbv_b8C_XKs0VT5T3cCraH		'HITTING RESET-MONEY AND DESIGN BY THEFUTUR 2016 (9)
+https://www.youtube.com/watch?v=GKRQC4fLNHs&list=PL-YSks8fJw4TgyUbo3oQYmFq027f8jdTD		'WEB DESIGN BY MIRROM 2016 (40)*
+https://www.youtube.com/watch?v=BsuiaE-zMCw&list=PL1gW9t4-0qhIRbhxVvSx3hwe6MLfwSUY4		'PHOTOSHOP LOGO DESIGN BY ARUNZ CREATION 2014 (8)*
+https://www.youtube.com/watch?v=v9EGPOfIUJ8&list=PLbR94ivay6ozUtzmKvf5iGiI4E3mnIxmz		'TEXT EFFECTS BY THE CLEAR TUTORIAL PHOTOSHOP 2016 (12)
+https://www.youtube.com/watch?v=U1UJn4MD4_c&list=PL7JpMMpENaD0an-7VlXq8hSRhb8MrXUux		'TEXT AND GRAPHICS BY PHLEARN 2015 (30)
+https://www.youtube.com/watch?v=CJ2dZDRs49s&list=PL1gW9t4-0qhLbhitdFKmvCs_9l91OOx5X		'GRAPHIC DESIGN BY ARUNZ CREATION 2014 (47)
+https://www.youtube.com/watch?v=MAxsO-BYEaI&list=PL1gW9t4-0qhIIXpH-cIGI6WNUR-R_qxWX		'PHOTOSHOP 3D BY ARUNZ CREATION 2014 (6)
+https://www.youtube.com/watch?v=BYV3-4Q7AJg&list=PL-YSks8fJw4TTUehr-S0uJ3-ZJrcstAgf		'INFOGRAPHIC BY MIRROM 2015 (62)
+https://www.youtube.com/watch?v=iUc9btUkzo0&list=PL-YSks8fJw4Su_yRaypQnftPwgYTGfxzg		'BEST INFOGRAPHIC TUTORIALS BY MIRROM 2016 (15)*
+https://www.youtube.com/watch?v=boswzxXgf70&list=PL-YSks8fJw4S3IP9F8TpyHznnbxA6AAFp		'MOVIE POSTER/COVER BY MIRROM 2016 (26)
+https://www.youtube.com/watch?v=5YaAd9bBpME&list=PL-YSks8fJw4SQpuVvF83M-acLQ3cQbi9c		'BROCHURES BY MIRROM 2015 (22)
+https://www.youtube.com/watch?v=nTHIMJCRUKI&list=PL-YSks8fJw4RDLQNuC7BjjkDeW7XS7LES		'FLYERS BATCH1 BY MIRROM 2016 (28)
+https://www.youtube.com/watch?v=46drR7FNW-A&list=PL-YSks8fJw4R3QhUV4cJsi7wJPWvxL_K9		'FLYERS BATCH2 BY MIRROM 2016 (59)
+https://www.youtube.com/watch?v=mFRIpE87hqY&list=PL3bfN-31F9ReKi0cAijMkiMmomNwsqNOE		'PHOTOSHOP TEXT TUTORIALS BY PTC 2013 (7)
+https://www.youtube.com/watch?v=5Yl-MJYvF3Q&list=PL3bfN-31F9RcUECu7umC4IrSCwWbBq8uT		'PHOTOSHOP 3D TUTORIALS BY PTC 2016 (8)
+https://www.youtube.com/watch?v=WONZVnlam6U&list=PLYfCBK8IplO4E2sXtdKMVpKJZRBEoMvpn		'BEGINNER'S GUIDE TO GRAPHIC DESIGN BY TASTYTUTS 2016 (46)
+https://www.youtube.com/watch?v=DtfEVO9Oc3U&list=PLsPHRLf6UN4kkES0INlCfxDuf5abZW0OH		'UNDERSTAND THE THEORY AND APPLICATION OF 3D BY ONLINEMEDIATUTOR 2015 (8)
+https://www.youtube.com/watch?v=BUAsKcYbJlg&list=PLtyorbKQRK7ZhpyUB2OIJFQutBwEoTA4f		'ANIMATION LESSONS BY IWA 2017 (9)
+https://www.youtube.com/watch?v=nyM4MRM5HrQ&list=PLYfCBK8IplO4609ocIqD7iRfPOKrDcJ-z		'MULTIMEDIA DESIGN COURSE FOR PRINT BY TASTYTUTS 2015 (16)
+https://www.youtube.com/watch?v=rI4kdGLaUiQ&list=PL6n9fhu94yhUbctIoxoVTrklN3LMwTCmd		'DESIGN PATTERN BY KUDVENKAT 2017 (6)
+https://www.youtube.com/watch?v=vNHpsC5ng_E&list=PLF206E906175C7E07				'DESIGN PATTERN BY DEREK BANAS 2012 (27)
+https://www.youtube.com/watch?v=fJW65Wo7IHI&list=PLGLfVvz_LVvS5P7khyR4xDp7T9lCk9PgE		'OBJECT ORIENTED DESIGN BY DEREK BANAS 2012 (11)
+https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc		'UML UNIFIED MODELING LANGUAGE BY DEREK BANAS 2012 (9)
+
+
+****************************************************************
+			HTML AND CSS COURSES
+****************************************************************
+https://www.youtube.com/watch?v=wwV0tSw-JRo&list=PLAkMqlQoeMeieOfZWlnTnu9LroKFCji4F		'HTML5 AND CSS3 BASICS SESSION 1 BY DIGICRAFT 2013 (7)*
+https://www.youtube.com/watch?v=xr47PEJYKl4&list=PLAkMqlQoeMejXcFC43wgly7FYkeV_ch4b		'HTML5 AND CSS3 BASICS SESSION 2 BY DIGICRAFT 2013 (10)*
+https://www.youtube.com/watch?v=5ePVoAgvU1k&list=PL41lfR-6DnOq3BebucTNMSVDojCIiv_en		'HTML5 AND CSS3 2016 SERIES BY QUENTIN WATTS 2016 (25)*
+https://www.youtube.com/watch?v=LqvFIuVlyP8&list=PL41lfR-6DnOruqMacTfff1zrEcqtmm7Fv		'HTML5 AND CSS3 2014 SERIES BY QUENTIN WATTS 2014 (51)*
+https://www.youtube.com/watch?v=yTHTo28hwTQ&list=PLgGbWId6zgaWZkPFI4Sc9QXDmmOWa1v5F		'HTML AND CSS IN 30DAYS BY ENVATO TUTS 2012 (32)*+
+https://www.youtube.com/watch?v=I-rTKuEhrCM&index=1&list=PL07454EA7FF8D28AB			'CSS TUTORIALS BY DEREK BANAS 2011 (7)
+https://www.youtube.com/watch?v=UOpnbmzMmd8&list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU		'HTML AND CSS BY MMTUTS 2017 (32)
+https://www.youtube.com/watch?v=cqszz_OfAFQ&list=PLC1322B5A0180C946				'XHTML AND CSS BY THENEWBOSTON 2011 (46)
+https://www.youtube.com/watch?v=Y1BlT4_c_SU&list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc		'HTML TUTORIALS BY NETNINJA 2015 (17)*
+https://www.youtube.com/watch?v=0aUtQPZcqxE&list=PLLnpHn493BHGlqEn4EE7dRUnPn4o_tKM0		'HTML5 TUTORIALS BY LEVELUPTUTS 2013 (19)*+
+https://www.youtube.com/watch?v=NzzGt7EmXVw&list=PLqGj3iMvMa4KlJn1pMYPVV3eYzxJlWcON		'HTML5 BASICS BY DEVTIPS 2013 (7)*+
+https://www.youtube.com/watch?v=oPXy55dEIiM&list=PLfdtiltiRHWGd40bKGH9ygQGZf5IrQg5Y		'HTML5 INPUT TYPES BY CODECOURSE 2014 (14)*+
+https://www.youtube.com/watch?v=Awmx8XlgcaE&list=PLpcSpRrAaOaqfJ5uIRikm04Gd5X5aiqSB		'LEARN CSS BY LEARNWEBCODE 2010 (24)*
+https://www.youtube.com/watch?v=I9XRrlOOazo&list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT		'CSS TUTORIALS BY NETNINJA 2015 (53)*+
+https://www.youtube.com/watch?v=6_HSjZSoChA&list=PLLnpHn493BHH6DkHPhduhco5XavNA9JaD&index=33	'CSS TUTORIALS BY LEVELUPTUTS 2012 (33)*+
+https://www.youtube.com/watch?v=Bq_oWuTRXS8&list=PLLnpHn493BHFOoBjPGOcWL1PnY0H1w5N_		'CSS3 TUTORIALS BY LEVELUPTUTS 2012 (14)*+
+https://www.youtube.com/watch?v=s7ONvIgOWdM&list=PLqGj3iMvMa4IOmy04kDxh_hqODMqoeeCy		'CSS BASICS BY DEVTIPS 2013 (8)*+
+https://www.youtube.com/watch?v=7ZXsPj43heo&list=PL4cUxeGkcC9hudKGi5o5UiWuTAGbxiLTh		'CSS POSITIONING BY NETNINJA 2015 (12)*+
+https://www.youtube.com/watch?v=kejG8G0dr5U&list=PLqGj3iMvMa4L731ispRfGAabXeRpM4RL6		'CSS POSITIONING BY DEVTIPS 2014 (7)*+
+https://www.youtube.com/watch?v=Y8zMYaD1bz0&list=PL4cUxeGkcC9i3FXJSUfmsNOx8E7u6UuhG		'CSS FLEXBOX BY NETNINJA 2016 (12)*+
+https://www.youtube.com/watch?v=Vj7NZ6FiQvo&list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid		'CSS FLEXBOX BY WESBOS 2015 (20)*+
+https://www.youtube.com/watch?v=YaaY1A3iYbs&list=PLLnpHn493BHGrSO0lNO-3SNuuoPuJrA1o		'CSS EXPERIMENTS BY LEVELUPTUTS 2014 (10)*
+https://www.youtube.com/watch?v=B9OZkATMbag&list=PL4cUxeGkcC9htzG9o-QzCTsGMbmfuF4kk		'CSS TIPS AND TRICKS BY NETNINJA 2016 (3)*
+https://www.youtube.com/watch?v=STwoa-9jxi0&list=PLqGj3iMvMa4IyCbhul-PdeiDqmh4ooJzk		'PARALLAX ON THE WEB BY DEVTIPS 2015 (10)*
+https://www.youtube.com/watch?v=vEdrNJHiXXY&list=PLoUqhPKdwRcaWpJ2Z5hz5-LAySMwR5vKe		'PARALLAX EFFECTS MIX TUTORIAL 2017 (8)*
+https://www.youtube.com/watch?v=y3kMAL8Fu0M&list=PLfdtiltiRHWFyn-X9TjXWWUEzQjC7ZlkC		'CSS SHADOWS BY CODECOURSE 2014 (8)*
+https://www.youtube.com/watch?v=7tHLqozJ1tE&list=PLfdtiltiRHWHWi7eL3zBsVrgdTXEcl9os		'CSS SLIDE OUT NAVIGATION BY CODECOURSE 2014 (2)*
+https://www.youtube.com/watch?v=cUF-q50DPPM&list=PLfdtiltiRHWH79UtFuBhu3DwLsEgGBJGs		'CSS FULLSCREEN BACKGROUND IMAGE BY CODECOURSE 2014 (2)*
+https://www.youtube.com/watch?v=PrKVmChuo_c&list=PLfdtiltiRHWE_oCRbG4eX4_icT8QSfi1d		'CSS PURE ACCORDION BY CODECOURSE 2014 (2)*
+https://www.youtube.com/watch?v=HiHHvTcHiEk&list=PL4cUxeGkcC9g5_p_BVUGWykHfqx6bb7qK		'CSS FORM STYLING BY NETNINJA 2016 (6)*
+https://www.youtube.com/watch?v=L5EdmOpHg74&list=PLAgylfU8wrtsedFZDgZTGjbNJow6Tw0Yf		'CSS TRICKS BY LEARNTOPROGRAM 2014 (32)
+https://www.youtube.com/watch?v=OHX8GdpPcRA&index=6&list=PL478wQWRhpfayR-iXIUvAhcwVXKHlpFHX	'HTML AND CSS TOPICS BATCH1 BY KIRUPA 2015 (6)*
+https://www.youtube.com/watch?v=W3eJWpvIl0g&list=PLW32vfzCW_FAFJ5950kWR2rdw9TVaBhl_		'HTML5 AND CSS3 ADVANCED BY ADAM KHOURY 2013 (20)*
+https://www.youtube.com/watch?v=4HcPsj1-8XY&list=PL318A32010538472A				'HTML5 AND CSS3 TUTORIALS BY ADAM KHOURY 2016 (59)*
+https://www.youtube.com/watch?v=URSH0QpxKo8&list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX		'HTML CSS AND DOM BY CODINGTRAIN 2015 (17)*
+https://www.youtube.com/watch?v=BmlM9xEzxKE&list=PLWjCJDeWfDdf2mx4t-HMV6L5ojOqBNany		'MODULAR LAYOUTS BY THOMAS BRADLEY 2014 (7)
+https://www.youtube.com/watch?v=Kcd1742iCVA&list=PLWjCJDeWfDddIWwftJxBqtHpw8CbFMXsa		'CSS MODULES BY THOMAS BRADLEY 2013 (13)
+https://www.youtube.com/watch?v=x7tLPhnA06w&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY		'CSS GRID BY NETNINJA 2017 (10)
+
+
+
+****************************************************************
+			JAVASCRIPT COURSES
+****************************************************************
+https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET		'JAVASCRIPT TUTORIALS NETNINJA 2015 (46)*+
+https://www.youtube.com/watch?v=blN-T__INeg&list=PLLnpHn493BHEPsHK41rZRFDTGnPo2BNVw		'JAVASCRIPT TUTORIALS BY LEVELUPTUTS 2013 (14)*
+https://www.youtube.com/watch?v=_cLvpJY2deo&list=PLBA965A22D89CF13B				'JAVASCRIPT TUTORIALS BY DEREK BANAS 2011 (11)
+https://www.youtube.com/watch?v=qpOgyqUGnlo&list=PL478wQWRhpfa1aPYzB_CzhJ-vFQ7BCeZS		'JAVASCRIPT THE BASICS BY KIRUPA 2014 (17)*
+https://www.youtube.com/watch?v=qxj8xwbIxHQ&list=PL0eyrZgxdwhwSYSCktL609HxyXBalX2J_		'JAVASCRIPT TUTORIALS BY MMTUTS 2017 (33)*
+https://www.youtube.com/watch?v=fGdd9qNwQdQ&list=PLoYCgNOIyGACnrXwo5HMCfOH9VT05znGv		'JAVASCRIPT TUTORIALS BY LEARNCODE 2015 (26)*
+https://www.youtube.com/watch?v=JEq7Ehw-qk8&list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_		'JAVASCRIPT IS WEIRD AND AWESOME BY LEARNCODE 2014 (5)*
+https://www.youtube.com/watch?v=HkFlM73G-hk&list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f		'JAVASCRIPT MODULAR JS BY LEARNCODE 2015 (7)*
+https://www.youtube.com/watch?v=xizFJHKHdHw&list=PL7pEw9n3GkoW5bYOhVAtmJlak3ZK7SaDf		'JAVASCRIPT ADVANCED TUTORIAL BY TECHSITH 2017 (25)*
+https://www.youtube.com/watch?v=WgyCEbgUcCk&list=PLz1XPAFf8IxbIU78QL158l_KlN9CvH5fg		'JAVASCRIPT ADVANCED BY CODECADEMY 2016 (18)*
+https://www.youtube.com/watch?v=tMmXzjJWlnU&list=PL00952AC35D0A4701				'JAVASCRIPT FUNCTIONS AND FUNDAMENTALS BY ADAM KHOURY 2016 (110)*
+https://www.youtube.com/watch?v=bCYz_N6BIPw&list=PLlkGN-8wjPHWYT_00xdUibDPfHZ3Zm8i3		'JAVASCRIPT-HTML5 CANVAS BOOTCAMP BY ADAM KHOURY 2013 (21)*
+https://www.youtube.com/watch?v=rJaXOFfwGVw&list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r		'JAVASCRIPT DATA AND API TUTORIALS BY CODINGTRAIN 2015 (11)*
+https://www.youtube.com/watch?v=q7nSkqmNpMY&list=PLWjCJDeWfDdexVfek9nZEdmbyBL6_yP6Y		'JAVASCRIPT DOM BY THOMAS BRADLEY 2015 (7)*
+https://www.youtube.com/watch?v=aPW_wQEFvek&list=PL18600E7CA651B16B				'JAVASCIRPT DOCUMENT OBJECT MODEL DOM BY ULTIMATE NETWORKABLE 2012 (7)*
+https://www.youtube.com/watch?v=0Mp2kwE8xY0&list=PL4cUxeGkcC9gKfw25slm4CUDUcM_sXdml		'JAVASCRIPT ECMASCRIPT (ES6) BASICS BY NETNINJA 2016 (11)*
+https://www.youtube.com/watch?v=2LeqilIw-28&list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv		'JAVASCRIPT ECMASCRIPT (ES6/ES2015) BY TRAVERSY MEDIA 2016 (11)*
+https://www.youtube.com/watch?v=ZJZfIw3P8No&list=PL6gx4Cwl9DGBhgcpA8eTYYWg7im72LgLt		'JAVASCRIPT ECMASCRIPT (ES6) BASICS BY THENEWBOSTON 2016 (7)*
+https://www.youtube.com/watch?v=AfWYO8t7ed4&list=PLoYCgNOIyGACDQLaThEEKBAlgs4OIUGif&index=1	'JAVASCRIPT ES6 BY LEARNCODE 2015 (2)*
+https://www.youtube.com/watch?v=vLvNr3Wa5YI&list=PLC3y8-rFHvwj200LLotCYum_9wmGeTJx9		'ES6 AND TYPESCRIPT BY CODEVOLUTION 2016 (50)
+https://www.youtube.com/watch?v=FIORjGvT0kk&list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V		'JAVASCRIPT DOM BY NETNINJA 2017 (18)
+https://www.youtube.com/watch?v=4l3bTDlT6ZI&list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7		'JAVASCRIPT OBJECT ORIENTED BY NETNINJA 2018 (11)
+
+
+****************************************************************
+			JQUERY COURSES
+****************************************************************
+https://www.youtube.com/watch?v=jVe1GBCqFIE&list=PL4cUxeGkcC9hNUJ0j6ccnOAcJIPoTRpO4		'JQUERY BY NETNINJA 2015 (26)*+
+https://www.youtube.com/watch?v=hMxGhHNOkCU&list=PLoYCgNOIyGABdI2V8I_SWo22tFpgh2s6_		'JQUERY BASICS BY LEARNCODE 2014 (10)*
+https://www.youtube.com/watch?v=3nrLc_JOF7k&list=PLillGF-RfqbYJVXBgZ_nA7FTAAEpp_IAc		'JQUERY CRASH COURSE BY TRAVERSY MEDIA 2016 (5)*
+https://www.youtube.com/watch?v=Pt49y1gm0jw&list=PLqGj3iMvMa4KOekRWjjajinzlRK879Ksn		'JQUERY IN 15MINS BY DEVTIPS 2016 (4)*
+https://www.youtube.com/watch?v=aHfbbFxINcQ&list=PL41lfR-6DnOoH7Q9zdHNCQx--XnsIXpdw		'JQUERY BASICS BY QUENTIN WATTS 2014 (15)*
+https://www.youtube.com/watch?v=GNb8T5NBdQg&list=PL6B08BAA57B5C7810				'JQUERY FULL TUTORIAL BY THENEWBOSTON 2011 (200)*
+https://www.youtube.com/watch?v=Z9lCqK_VrEE&index=1&list=PLrG78JjvL7hU2SXyTcFq5HF4ff1ARGH08	'JQUERY CODE SNIPPETS BY JOHN MORRIS 2015 (6)*
+https://www.youtube.com/watch?v=4WaX6uMrKWo&list=PLfdtiltiRHWF8de3o-tXpC6WQcnQcKMLw		'JQUERY LOAD MORE PLUGIN BY CODECOURSE 2014 (4)*
+https://www.youtube.com/watch?v=BmGMnDz9kOA&list=PLgt-G5tEOlKWaeV_2UFHGikxnI8ihjKCv		'JQUERY ESSENTIALS AND STUFFS BY CODINGPASSIVE 2017 (5)
+
+
+****************************************************************
+			AJAX COURSES
+****************************************************************
+https://www.youtube.com/watch?v=YxWMxJONp7E&list=PL4cUxeGkcC9jAhrjtZ9U93UMIhnCc44MH	'JAVASCRIPT ASYNCHRONOUS BY NETNINJA 2016 (5)*+
+https://www.youtube.com/watch?v=_iRIPJHrdXg&list=PL3877C5434C042349			'AJAX AND JQUERY BY TRAVERSY MEDIA 2011 (9)*
+https://www.youtube.com/watch?v=tp3Gw-oWs2k&list=PL6gx4Cwl9DGDiJSXfsJTASx9eMq_HlenQ	'AJAX SECTION2 BY THENEWBOSTON 2013 (23)*
+https://www.youtube.com/watch?v=0NVIpTid4pw&list=PLAkMqlQoeMeggmlTJn8QLzOTohUYpHzGa	'AJAX WITH JQUERY AND PHP BY DIGICRAFT 2015 (24)*
+https://www.youtube.com/watch?v=Ku9TQf-JSGc&list=PLHPcpp4e3JVpXbtgyD-k-nCmwpbbMIHOh	'AJAX AND JQUERY BY BRINGBACK 2013 (50)*
+https://www.youtube.com/watch?v=k-i7OS3AkMk&list=PLE0071B4091E8948D			'AJAX TUTORIALS BY DEREK BANAS 2010 (8)
+https://www.youtube.com/watch?v=_iRIPJHrdXg&list=PL3877C5434C042349			'AJAX AND JQUERY BY DEREK BANAS 2011 (9)
+
+
+****************************************************************
+			JSON COURSES
+****************************************************************
+https://www.youtube.com/watch?v=BGfmpvM4Zp0&list=PLfdtiltiRHWHKQOby9HEyYtB_Y9g7z6yL	'WHAT IS JSON BY CODECOURSE 2014 (4)*
+https://www.youtube.com/watch?v=wbB3lVyUvAM&list=PL6aYRL6CQzVmyZFm6VZMZdwWgrrgc9unc	'JSON FUNDAMENTALS BY ADAM KHOURY 2012 (8)*
+
+
+****************************************************************
+			XML COURSES
+****************************************************************
+https://www.youtube.com/watch?v=p5anxjx8J-o&list=PLTnQNmqSbDI2TYciziQiGGxVsFbd__keg	'XML ESSENTIAL TRAINING BY LYNDA 2014 (43)*+
+https://www.youtube.com/watch?v=My-hyvjFaxA						'XML TUTORIAL BY TUTS 2016 (1)*+
+https://www.youtube.com/watch?v=qgZVAznwX38&list=PL39BDE498522EE8D3			'XML TUTORIAL 1 BY DEREK BANAS 2010 (4)
+https://www.youtube.com/watch?v=tAN-1xUsftg&list=PLBB413675AFBDC1F4			'XML TUTORIAL 2 BY DEREK BANAS 2012 (7)
+
+
+****************************************************************
+			GIT COURSES
+****************************************************************
+https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR	'GIT & GITHUB TUTORIAL BY NETNINJA 2017 (12)*+
+https://www.youtube.com/watch?v=DR7MLaAKcUk&list=PLfdtiltiRHWFEbt9V04NrbmksLV4Pdf3j	'GIT & GITHUB BASICS BY CODECOURSE 2014 (11)*
+https://www.youtube.com/watch?v=1h9_cB9mPT8&list=PLqGj3iMvMa4LFz8DZ0t-89twnelpT4Ilw	'GITHUB FOR NOOBS BY DEVTIPS 2016 (4)*
+https://www.youtube.com/watch?v=WS8whF0ZK-o&list=PLwAKR305CRO-fenwcN2-IC0rgaB6vaJgD	'GITTING STARTED WITH GIT BY DEVMARKETER 2016 (8)*
+https://www.youtube.com/watch?v=cEGIFZDyszA&list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx	'GIT TUTORIAL BY THENEWBOSTON 2014 (25)*
+https://www.youtube.com/watch?v=P6SOVdNVylY&list=PLWjCJDeWfDdfSZOQYvsy_jJiAvx4uaJLB	'GITHUB BY THOMAS BRADLEY 2014 (9)*
+https://www.youtube.com/watch?v=9GKpbI1siow&list=PLpcSpRrAaOarEpNz71TSfNVd0eQmsZSgN	'COMMAND LINE GIT AND GITHUB BY LEARNWEBCODE 2016 (4)*
+
+
+****************************************************************
+			BOOTSTRAP COURSES
+****************************************************************
+https://www.youtube.com/watch?v=xvfm7IpEkBk&list=PL4cUxeGkcC9g_69kOfXICzT_hZ79_td99	'BOOTSTRAP 3 BY NETNINJA 2016 (28)
+https://www.youtube.com/watch?v=QAgrHLtG1Yk&list=PL4cUxeGkcC9jE_cGvLLC60C_PeF_24pvv	'BOOTSTRAP 4 BY NETNINJA 2017 (12)
+https://www.youtube.com/watch?v=0QlecDOWHmY&list=PLqGj3iMvMa4IPwMW-sSXn1Q_pVu5tUMCw	'BOOTSTRAP GRID BY DEVTIPS 2014 (14)*
+https://www.youtube.com/watch?v=qIULMnbH2-o&list=PL6gx4Cwl9DGBPw1sFodruZUPheWVKchlM	'BOOTSTRAP BY THENEWBOSTON 2015 (14)
+https://www.youtube.com/watch?v=wesUO81YX0U&list=PL41lfR-6DnOovY0t3nBg8Zb6aqm_H70mR	'BOOTSTRAP BY QUENTIN WATTS 2015 (22)*+
+https://www.youtube.com/watch?v=ZBejUQX49ls&list=PLS1QulWo1RIaBQ1DOYYiJz38edqH_zwM1	'BOOTSTRAP TUTORIAL BY PROGRAMMINGKNOWLEDGE 2015 (23)
+https://www.youtube.com/playlist?list=PLRtjMdoYXLf47brThg9-nTj8HSq8cQ0ND		'BOOTSTRAP 4 TUTORIAL BY SONAR SYSTEM 2015 (53)
+
+
+****************************************************************
+			SASS COURSES
+****************************************************************
+https://www.youtube.com/watch?v=St5B7hnMLjg&list=PL4cUxeGkcC9iEwigam3gTjU_7IA3W2WZA	'SASS TUTORIALS BY NETNINJA 2016 (12)*
+https://www.youtube.com/watch?v=VK9bcij0O4g&list=PLfdtiltiRHWEDDFN8fGLK3__HesaTcZ7f	'SASS BASICS BY CODECOURSE 2015 (6)*
+https://www.youtube.com/watch?v=1XmUUa_pWw8&list=PLqGj3iMvMa4LE0uTAwo9wIFQYuGhIu7Gw	'SASS FOR THE PEOPLE BY DEVTIPS 2014 (4)*
+https://www.youtube.com/watch?v=fbVD32w1oTo&list=PL2CB1F80266E986EA			'SASS BASICS BY LEVELUPTUTS 2012 (30)*
+https://www.youtube.com/watch?v=sCbXTrsl7NU&list=PL6gx4Cwl9DGBxQO2r_kmxn-0UqL_Rkj0t	'SASS AND SCSS BY THENEWBOSTON 2015 (7)*
+https://www.youtube.com/watch?v=PRJpf-yyWZ4&list=PL45DD77A4CCA76ED3			'COMPASS TUTORIAL BY LEVELUPTUTS 2012 (13)*
+
+
+****************************************************************
+			ANIMATION COURSES
+****************************************************************
+https://www.youtube.com/watch?v=jgw82b5Y2MU&list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5	'CSS ANIMATION BY NETNINJA 2016 (13)*
+https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid	'CSS ANIMATION BY DEVTIPS 2016 (8)*
+https://www.youtube.com/watch?v=90QvQ3p6brk&list=PL478wQWRhpfZA85XA9eDWVTs1w2mCNZkV	'WEB ANIMATION BY KIRUPA 2015 (19)*
+https://www.youtube.com/watch?v=6xLwxgyU03s&list=PLlkGN-8wjPHW9cFBcUPQVW7XuGuYzffWd	'WEB ANIMATION PROGRAMMING GUIDE BY ADAM KHOURY 2016 (5)*
+https://www.youtube.com/watch?v=mYW7PPO81gk&list=PLWjCJDeWfDdfLCjaTRgCMkl_KNl5cfGlm	'ANIMATION AND TRANSITIONS BY THOMAS BRADLEY 2015 (11)*
+https://www.youtube.com/watch?v=8NcbPhLulas&list=PLWjCJDeWfDdfAAbxA-H5XHQlGoLICyHe_	'JAVASCRIPT EFFECTS BY THOMAS BRADLEY 2015 (6)
+https://www.youtube.com/watch?v=tla17buc3tw&list=PL5e68lK9hEzeEe1bOwe7W7gBgP-cFiD45	'CSS ANIMATION BY ONLINETUTORIALS 2017 (158)*
+https://www.youtube.com/watch?v=-kCjZ9_uS2Q&list=PL5e68lK9hEzd81JLjU2ey6WqODkKB2xFF	'CSS BUTTON HOVER EFFECT BY ONLINETUTORIALS (18)
+https://www.youtube.com/watch?v=ZDAhjDobFhw&list=PL5e68lK9hEzeZ1NH5Wlvsk9XNxe8xLyGz	'JQUERY TRICKS AND ANIMATION BY ONLINETUTORIALS 2017 (20)
+https://www.youtube.com/watch?v=l0qf1SmyyBo&list=PL5e68lK9hEzc_7RNnkAO19nQi_Gip2s92	'CSS IMAGE HOVER EFFECT BY ONLINETUTORIALS 2017 (13)
+https://www.youtube.com/watch?v=mHRnTMLry-Y&list=PL5UFsTza4wWTteq897268Hvt6fipM9LLo	'CSS3 ANIMATION BY VCR GAMES 2013 (10)*
+
+
+****************************************************************
+			SVG COURSES
+****************************************************************
+https://www.youtube.com/watch?v=MpSIdTFAvo0&list=PLAgylfU8wrttInxzi8vYk62Eih6NjVvAm	'HTML5 CANVAS BY LEARNTOPROGRAM 2014 (8)*
+https://www.youtube.com/watch?v=q_3Q9HHcXuA&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM	'SVG ADVANCED TUTORIAL BY THOMAS BRADLEY 2015 (16)*
+https://www.youtube.com/watch?v=PQxtlY19kto&list=PLL8woMHwr36F2tCFnWTbVBQAGQ6nTcXOO	'SVG TUTORIALS BY JAKOB JENCOV 2014 (13)*
+https://www.youtube.com/watch?v=JBK33VfGnBM&list=PLxi1fvNe2-i2tBroW_94QifOZ2mwOTGXs	'SVG ANIMATION BY DIGITALLEARNING 2016 (22)*
+https://www.youtube.com/watch?v=yRxWa8lXasI&list=PLoUqhPKdwRcbJa3srW0-Sk8DZb9pzaGxl	'WEB ANIMATION & SVG MIX TUTORIAL (31)*
+https://www.youtube.com/watch?v=IcCWUOuN7AI&list=PLfQGdb9CV15H6US24CmHyIK9ucbsuuScr	'SVG MIX TUTORIAL BY TAYE BAPTISTA 2014 (8)
+https://www.youtube.com/watch?v=IM8eTD01UE8&list=PLQWB7UtRMkHO1zdpfNCKG6HI4OsZtEiLn	'SVG MIX TUTORIAL BY POPULARVIDEOS 2016 (167)
+
+
+****************************************************************
+			ANGULAR COURSES
+****************************************************************
+https://www.youtube.com/watch?v=FlUCU13dJyo&list=PL4cUxeGkcC9gsJS5QgFT2IvWIX78dV3_v	'ANGULAR JS BY NETNINJA 2016 (25)*
+https://www.youtube.com/watch?v=OPxeCiy0RdY&list=PLGLfVvz_LVvRo7634CgU8vyD_NPtODwjE	'ANGULAR JS BY DEREK BANAS 2016 (4)
+https://www.youtube.com/watch?v=NJ4FYsRV3nU&list=PLLnpHn493BHF6utwkwpo7RN-GPg1sZhvK	'ANGULAR JS FOR EVERYONE BY LEVELUPTUTS 2015 (21)
+https://www.youtube.com/watch?v=QETUuZ27N0w&list=PLoYCgNOIyGACEvLxZSD0YSrxKwfgnnkD9	'ANGULAR JS IN 30MINS BY LEARNCODE 2013 (2)
+https://www.youtube.com/watch?v=WI0Kb6F0jfk&list=PLC3y8-rFHvwgW2D6SaD6BEzEX5D96nr1J	'ANGULAR CLI TUTORIAL BY CODEVOLUTION 2017 (4)
+https://www.youtube.com/watch?v=DwTNR3EBSJQ&list=PL4cUxeGkcC9jqhk5RvBiEwHMKSUXPyng0	'ANGULAR 2 BY NETNINJA 2016 (27)
+https://www.youtube.com/watch?v=hXfigUyeHaY&list=PL6gx4Cwl9DGBYxWxJtLi8c6PGjNKGYGZZ	'ANGULAR 2 BY THENEWBOSTON 2016 (9)*
+https://www.youtube.com/watch?v=7ckPO29t_Bo&list=PLillGF-RfqbbZnAJlEzttBrbkAO27U_hd	'ANGULAR 2 BY TRAVERSY MEDIA 2016 (7)
+https://www.youtube.com/watch?v=d6Dp4Dyeke8&list=PL55RiY5tL51olfU2IEqr455EYLkrhmh3n	'ANGULAR 2 QUICKSTART TUTORIALS BY ACADEMIND 2016 (20)
+https://www.youtube.com/watch?v=DBjPIabiRNg&list=PL55RiY5tL51qIb5VW2ywbT12UZeqmzBAu	'ANGULAR 2 BY ACADEMIND 2016 (35)
+https://www.youtube.com/watch?v=nvD2Dvzj8_E&list=PL55RiY5tL51rLeDxRPlE6Hsnss3QDCCKc	'ANGULAR 2 FINAL BY ACADEMIND 2016 (7)
+
+
+****************************************************************
+			REACT COURSES
+****************************************************************
+https://www.youtube.com/watch?v=yZ0f1Apb5CU&list=PL4cUxeGkcC9i0_2FF-WhtRIfIJ1lXlTZR	'REACT BY NETNINJA 2016 (16)*
+https://www.youtube.com/watch?v=vYldnghykaU&list=PLillGF-RfqbbKWfm3Y_RF57dNGsHnkYqO	'REACT TUTORIALS BY TRAVERSY MEDIA 2016 (10)
+https://www.youtube.com/watch?v=eOctQZ1EV0E&list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p	'REACT FOR EVERYONE BY LEVELUPTUTS 2015 (18)
+https://www.youtube.com/watch?v=O7zy7gVQRIM&list=PL478wQWRhpfaQbaET2DvDzG60EFGThtd1	'REACT BY KIRUPA 2017 (7)
+https://www.youtube.com/watch?v=DOR-OHs0Uag&list=PLei96ZX_m9sUoCG7QfbDT4_0WTXmQwB3U	'REACT BASICS BY CHRISHAWKES 2016 (8)
+https://www.youtube.com/watch?v=-AbaV3nrw6E&list=PL6gx4Cwl9DGBuKtLgPR_zWYnrwv-JllpA	'REACT BASICS BY THENEWBOSTON 2016 (13)
+https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS	'REACT BASICS BY ACADEMIND 2016 (17)
+https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b	'REACT.JS BASICS BY LEARNCODE 2016 (23)
+https://www.youtube.com/watch?v=kNVHzVMZjao&list=PLLnpHn493BHGqWuzy6BNYA24EP36fh9mh	'REACT TIPS BY LEVELUPTUTS 2016 (3)
+https://www.youtube.com/watch?v=NHzUPnRwqXY&list=PLei96ZX_m9sXkvBUrb_dTkuZXYyQ1zl8H	'REACT FROM NOOB TO PRO BY CHRIS HAWKES 2015 (5)
+https://www.youtube.com/watch?v=hmwBow1PUuo&list=PLu8EoSxDXHP5uyzEWxdlr9WQTJJIzr6jy	'REDUX TUTORIAL BY WESBOS 2016 (20)
+https://www.youtube.com/watch?v=8GLEuP8lzt8&list=PLzQWIQOqeUSO0lL3L8NAXFEz-c309xGeF	'REDUX TUTORIAL BY EQUIMPER 2017 (8)
+https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt	'REACT AND REDUX BY LEARNCODE 2016 (7)
+https://www.youtube.com/watch?v=DiLVAXlVYR0&list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a	'REACT AND REDUX TUTORIALS BY THENEWBOSTON 2016 (11)
+https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_	'REACT AND REDUX BY ACADEMIND 2016 (11)
+https://www.youtube.com/watch?v=kkNNkatU4MQ&list=PLzQWIQOqeUSMt6kTZnX5nY682Kd_ZyHJW	'REACT AND REDUX BY EQUIMPER 2016 (4)
+https://www.youtube.com/watch?v=53SNhzt7AqA&list=PLei96ZX_m9sUDK-1b8fNXZgBnnb6wA7sB	'REACT REDUX AND EXPRESS BY CHRIS HAWKES 2016 (12)
+
+
+****************************************************************
+			VUE COURSES
+****************************************************************
+https://www.youtube.com/watch?v=vzSjlLzGB1A&list=PLwAKR305CRO_1yAao-8aZiQnBqJeyng4O	'VUE.JS 2 FUNDAMENTALS BY DEVMARKETER 2016 (10)
+https://www.youtube.com/watch?v=5LYrN_cAJoA&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa	'VUE.JS 2 TUTORIAL BY NETNINJA 2017 (45)
+https://www.youtube.com/watch?v=nyJSd6V2DRI&list=PL55RiY5tL51p-YU-Uw90qQH419BM4Iz07	'VUE.JS 2 GETTING STARTED BY ACADEMIND 2016 (12)
+https://www.youtube.com/watch?v=2CSr2vBApSI&list=PL55RiY5tL51pT0DNJraU93FhMzhXxtDAo	'VUE.JS AND VUEX BASICS BY ACADEMIND 2016 (5)
+
+
+****************************************************************
+			DATA DRIVEN DOCUMENTS
+****************************************************************
+https://www.youtube.com/watch?v=fFY3E0PmIxM&list=PLillGF-RfqbY8Vy_G5WxXwhZx4eXI6Oea		'D3-DATA DRIVEN DOCUMENTS BY TRAVERSY MEDIA 2015 (8)
+https://www.youtube.com/watch?v=n5NcCoa9dDU&list=PL6il2r9i3BqH9PmbOf5wA5E1wOG3FT22p		'D3-DATA DRIVEN DOCUMENT TUTORIAL BY VIENNO 2013 (20)
+https://www.youtube.com/watch?v=K3FMuLT_3Ik&list=PLEDbaVSIL58PGP65y3kkZse02s79BCbsp		'D3-DATA DRIVEN DOCUMENT TUTORIAL BY ACCIOCODE 2016 (15)
+
+
+****************************************************************
+			WORDPRESS COURSES
+****************************************************************
+https://www.youtube.com/watch?v=odqwtZOCzzA&list=PL41lfR-6DnOow5-xamNsBRQitZo7KXJST	'WORDPRESS BASICS BY QUENTIN WATTS 2016 (7)
+https://www.youtube.com/watch?v=ftPB4qEKlvo&list=PLC5E59DD6D84D34DC			'WORDPRESS BASICS BY LEVELUPTUTS 2014 (21)*
+https://www.youtube.com/watch?v=cbU12Tw7Q4U&list=PLLnpHn493BHGACfv4rC29kJamYMtw34D9	'CUSTOMIZING WORDPRESS BY LEVELUPTUTS 2014 (15)*
+https://www.youtube.com/watch?v=Auo0Ab6oOlo&list=PLillGF-RfqbaQrnidRDPJTx9Z8zazeVEn	'WORDPRESS WIDGET BY TRAVERSY MEDIA 2014 (4)
+https://www.youtube.com/watch?v=2Zt8va_6HRk&list=PLillGF-RfqbaKe3TWtwDW8vYV2MHIFPEi	'WORDPRESS THEME DEVELOPMENT BY TRAVERSY MEDIA 2016 (10)*
+https://www.youtube.com/watch?v=8OBfr46Y0cQ&list=PLpcSpRrAaOaqMA4RdhSnnNcaqOVpX7qi5	'WORDPRESS THEME DEVELOPMENT BY LEARNWEBCODE 2014 (22)*
+https://www.youtube.com/watch?v=kWHvdKGLg_c&list=PL221702A605CAADA9			'WORDPRESS THEME AND DESIGNING A WEBSITE BY DEREK BANAS 2011 (60)
+https://www.youtube.com/watch?v=czIRtH1n2bQ&list=PL4cUxeGkcC9gnow7e45LQFkNVxwQ5BH-W	'PSD TO WORDPRESS BY NETNINJA 2015 (32)*
+https://www.youtube.com/watch?v=7qiPMpi2xc0&list=PLD8nQCAhR3tTVcreVOlFteq0piaXq1jjk	'WORDPRESS HOOKS AND FILTERS FULL SERIES BY IMRAN SAYED 2017 (38)
+
+
+****************************************************************
+			MAGENTO COURSES
+****************************************************************
+https://www.youtube.com/watch?v=ktlGc6UWB9A&list=PL3B0BAAF482B16EAB			'MAGENTO COMMUNITY BY LEVELUPTUTS 2012 (46)
+https://www.youtube.com/watch?v=gsY51-QmxkU&list=PLLnpHn493BHHWhog4Xk36L1nyxUu16r9E	'THEMING MAGENTO COMMUNITY BY LEVELUPTUTS 2012 (26)
+https://www.youtube.com/watch?v=juf5FUes5DQ&list=PLVdn7bwp_PPZ33Pk6e2lpDGNG5eLGBHRi	'MAGENTO FOR ECOMMERCE TUTORIAL BY ATAK 2014 (29)
+https://www.youtube.com/watch?v=cnfCy6LqYKU&list=PLju9v8YUzEuzYxXrF8ucXwxW_Xcgu1dYd	'MAGENTO 2 TUTORIALS BY ASTRALWEB 2015 (27)
+
+
+****************************************************************
+			PHP COURSES
+****************************************************************
+https://www.youtube.com/watch?v=95RU58kZlbc&list=PLONQt8bJdq9ayhjJkDsNcNTzUgYg_yG-U	'PHP SERIES BY CLEVER TECHIE 2016 (20)*
+https://www.youtube.com/watch?v=QRmmISj6Rrw&list=PLfdtiltiRHWFD41D_LDomY1Fb-O9MtFqq	'PHP BASICS BY CODECOURSE 2013 (29)
+https://www.youtube.com/watch?v=XKWqdp17BFo&list=PLfdtiltiRHWHjTPiFDRdTOPtSyYfz3iLW	'PHP BASICS BY CODECOURSE 2016 (35)*
+https://www.youtube.com/watch?v=cP5xUBOwJi0&list=PLfdtiltiRHWG7A1x_V6IK4-njNQkNV_tN	'PHP 7 NEW FEATURES BY CODECOURSE 2016 (12)*
+https://www.youtube.com/watch?v=oJbfyzaA2QA&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn	'PHP FRONT TO BACK BY TRAVERSY MEDIA 2017 (22)*+
+https://www.youtube.com/watch?v=gVYprZJ17k4&list=PL01C68F7D697AC80A			'PHP FOR BEGINNERS BY JREAM 2010 (20)*
+https://www.youtube.com/watch?v=BAI1w9WOstA&list=PLrG78JjvL7hVzN5zrfiYsu4yWZNWF9QvM	'PHP BEGINNERS GUIDE BY JOHN MORRIS 2013 (34)*
+https://www.youtube.com/watch?v=qVU3V0A05k8&list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-	'PHP TUTORIALS BY MMTUTS 2015 (67)*
+https://www.youtube.com/watch?v=27dR_sLaM74&list=PL6C3CB409A8577C2F			'PHP PROGRAMMING BY ELI 2012 (11)
+https://www.youtube.com/watch?v=LF3YooFv6sY&list=PLfdtiltiRHWHCuQl1HY1jHpD8Zxatjmjr	'PHP BEST PRACTICES BY CODECOURSE 2014 (11)*
+https://www.youtube.com/watch?v=Ib-gxqF6Wuk&list=PLfdtiltiRHWF_SLCBqWZshazWM8qLA2Ns	'PHP SOLID DESIGN PRINCIPALS BY CODECOURSE 2014 (5)*
+https://www.youtube.com/watch?v=DpbUqJcch0Y&list=PLBOh8f9FoHHgezS78nPQ7UBy3pQOkOjQL	'PHP MVC BY HOWCODE 2017 (4)*
+https://www.youtube.com/watch?v=kj0JwIdJS0o&list=PLBC2EFDE1797BC81F			'PHP TIPS BY CODECOURSE 2012 (8)*
+https://www.youtube.com/watch?v=6I97nvnJUlA&list=PLAkMqlQoeMegdBAmBdmZWB0laTuPFIWTR	'PHP ARRAYS BY DIGICRAFT 2013 (11)*
+https://www.youtube.com/watch?v=-oUXcTz1eEA&list=PL_c9BZzLwBRK-pdEkJHvsqd5yBDxvggbs	'PHP COMPLETE SERIES BY CALEB 2013 (59)
+https://www.youtube.com/watch?v=QtCdk459NFg&list=PLfdtiltiRHWHkDwEoZ29Q9FKtWVjA46HC	'PHP DATA OBJECTS (PDO) BY CODECOURSE 2014 (8)*+
+https://www.youtube.com/watch?v=82k6r4TMsIM&list=PL280FF4F677A253E9			'PHP-MYSQL TUTORIALS AND SCRIPT BY ADAM KHOURY 2016 (44)*
+https://www.youtube.com/watch?v=8DjzIuu49Rk&list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh	'PHP OBJECT ORIENTED PROGRAMMING (OOP) BY MMTUTS 2017 (14)*
+https://www.youtube.com/watch?v=ipp4WPDwwvk&list=PLfdtiltiRHWF0RicJb20da8nECQ1jFvla	'PHP OBJECT ORIENTED PROGRAMMING (OOP) BY CODECOURSE 2014 (13)*+
+https://www.youtube.com/watch?v=hyXKjAssUGE&list=PL75B9D91CD69ED950			'PHP OBJECT ORIENTED PROGRAMMING (OOP) BY JREAM 2010 (54)*
+https://www.youtube.com/watch?v=e0ssKVEISbQ&list=PLz_6dB4PItBEQEbVSAt6vrTOACQZD1K1E	'PHP-MYSQL PDO TUTORIALS BY RICHARD STIBBARD 2014 (9)*
+https://www.youtube.com/watch?v=RA-klM5kGn8&list=PLyKBLKYqadGmD33SGjyk_MXrGAHVTVcqa	'PHP DATA OBJECTS BY DAVID DOES 2013 (13)*
+https://www.youtube.com/watch?v=cMWYMlyksIc&list=PL_HlKez9XCSOSR6rVp8Na_fYIiiMGvPqD	'PHP PDO CRUD W/ BOOTSTRAP BY TUTORIALSPOINT 2016 (21)*
+https://www.youtube.com/watch?v=hSS1Ml6YOt8&list=PLlkGN-8wjPHV1mPbeoEedZqd5fvRMdcsN	'PHP PDO TUTORIALS DATABASE INTERACTION BY ADAM KHOURY 2015 (2)*
+https://www.youtube.com/watch?v=rfecHlJvHIM&list=PLrG78JjvL7hW6CtXYBvBwKGJYz8mruw4U	'PHP PREPARED STATEMENT, PDO, MYSQLI AND DATABASE BY JOHN MORRIS 2015 (11)*
+https://www.youtube.com/watch?v=iCUV3iv9xOs&list=PL442FA2C127377F07			'PHP FULL TUTORIAL BY THENEWBOSTON 2011 (200)
+https://www.youtube.com/watch?v=7Lh8gS11ZVc&list=PLAkMqlQoeMehbjZqHt7V7nNUyhKIOPMif	'PHP AND MYSQL DATABASE ENTIRE SERIES BY DIGICRAFT 2013 (33)*
+https://www.youtube.com/watch?v=a_kTH5y0yp4&list=PLfdtiltiRHWFsPxAGO-SVPGhCbCwKWF_N	'PHP SECURITY BY CODECOURSE 2015 (10)*
+https://www.youtube.com/watch?v=Nx-g-0ynP_I&list=PL2407F4EE0530B251			'PHP SECURITY BY DEREK BANAS 2011 (6)*
+https://www.youtube.com/watch?v=xsWbpfmB-AY&list=PLtNErhYMkHnF6TlyDc7V_CUyf8eHjC49W	'PHP SECURITY BY OREILLY 2014 (11)*
+https://www.youtube.com/watch?v=CWje5DWniDQ&list=PLfdtiltiRHWEoXAQb91VNUF7ixbch-TBs	'PHP CSRF (CROSS SITE REQUEST FORGERY) BY CODECOURSE 2013 (2)*
+https://www.youtube.com/watch?v=pTLW7Ygw4K4&list=PLgt-G5tEOlKX4LKrBCYfjcyrp7wmnRdAL	'PHP ESSENTIALS AND STUFFS BY CODINGPASSIVE 2017 (11)*
+https://www.youtube.com/watch?v=ay1kBltU6Ck&list=PLfdtiltiRHWEiSd2SG_6zV9pZ6VH3e2DJ	'PHP SECURE PASSWORD HASHING BY CODECOURSE 2014 (4)
+https://www.youtube.com/watch?v=netHLn9TScY&list=PLfdtiltiRHWGQrNSFxCE9mxspdpX_JleP	'PHP EASY VALIDATION BY CODECOURSE 2014 (4)*
+https://www.youtube.com/watch?v=mMqMOz9wRDw&list=PLfdtiltiRHWFtQmpKZOXruLgYp9vPOZcq	'PHP GOOGLE RECAPTCHA BY CODECOURSE 2015 (4)*
+https://www.youtube.com/watch?v=w5Acj5UnQ2U&list=PLfdtiltiRHWGEybSxvspeRykTLSQ9yUip	'PHP DATE & TIME ESSENTIALS BY CODECOURSE 2016 (9)*
+https://www.youtube.com/watch?v=PD32vZEoGBI&list=PLfdtiltiRHWHGFP44atE9usZsKXtmaH3J	'PHP DATE AND TIME BY CODECOURSE 2015 (13)*
+https://www.youtube.com/watch?v=7vbMpCIW_BU&list=PLfdtiltiRHWETcCksujWjp1O_c7T9osml	'PHP BUILD A FORM DATABASE 'EXIST' CHECKER JQUERY BY CODECOURSE 2014 (3)*
+https://www.youtube.com/watch?v=J6REieQ1SyA&list=PLfdtiltiRHWGJA_SN2O9t5DSlz7PTwAru	'PHP DROPDOWN AUTOSUGGEST BY CODECOURSE 2014 (5)*
+https://www.youtube.com/watch?v=MCKNMbLhlgA&list=PLfdtiltiRHWHl7VjZKor3q70FpXotfith	'PHP GENERATING PDF FILES BY CODECOURSE 2015 (7)*
+https://www.youtube.com/watch?v=1ItudXGjLpM&list=PLrG78JjvL7hXrSZhgiAW2Lz8ekXQwLSNW	'PHP CODE SNIPPETS BY JOHN MORRIS 2016 (27)*
+https://www.youtube.com/watch?v=BmHLvUdkCA0&list=PL530D33D6E548481F			'PHP-MYSQL FORM BUILDING BY JOHN MORRIS 2014 (5)
+https://www.youtube.com/watch?v=yZXbx6-XJKI&list=PLB99A46397F20D97E			'PHP ARRAY FUNCTIONS BY JOHN MORRIS 2011 (5)*
+https://www.youtube.com/watch?v=hHdynTN6j6E&list=PL_HlKez9XCSP14Eq4yrnu_P--vrfedwyv	'PHP MAGIC METHODS BY TUTORIALSPOINT 2016 (12)*
+https://www.youtube.com/watch?v=3uaPBYG4eeQ&list=PLfdtiltiRHWG0__5Jb1HDaDgt2PeYjvU6	'PHP REFLECTION API BY CODECOURSE 2014 (5)
+
+
+****************************************************************
+			SQL COURSES
+****************************************************************
+https://www.youtube.com/watch?v=-thOn1NKJew&list=PL_RGaFnxSHWr_6xTfF2FrIw-NAOo3iWMy	'SQL TUTORIAL BY THEBADTUTORIAL 2013 (56)
+https://www.youtube.com/watch?v=e7Pr1VgPK4w&list=PL_c9BZzLwBRK0Pc28IdvPQizD2mJlgoID	'DATABASE DESIGN BY CALEB 2014 (51)
+https://www.youtube.com/watch?v=krx-w9icrkU&list=PL405B31DD586979DE			'DATABASE DESIGN AND NORMALIZATION 2012 (25)
+https://www.youtube.com/watch?v=UGu9unCW4PA&list=PL_c9BZzLwBRKn20DFbNeLAAbw4ZMTlZPH	'MY SQL 2017 TUTORIAL BY CALEB 2017 (33)*
+https://www.youtube.com/watch?v=KgiCxe-ZW8o&list=PL32BC9C878BA72085			'MYSQL DATABASE TUTORIAL BY THENEWBOSTON 2012 (33)
+https://www.youtube.com/watch?v=6pbxQQG25Jw&list=PL_c9BZzLwBRKHaa-qY7N-bmZYLPx3RYVB	'MYSQL COMPLETE SERIES BY CALEB 2012 (67)
+https://www.youtube.com/watch?v=WOqFqZ9LB6A&list=PL_c9BZzLwBRI8Tv6o6AralPWFmQr0GShn	'MYSQL STORED PROCEDURES & FUNCTIONS BY CALEB 2016 (10)
+https://www.youtube.com/watch?v=krx-w9icrkU&list=PL405B31DD586979DE			'MYSQL DATATYPES BY CALEB 2012 (9)
+https://www.youtube.com/watch?v=WttoAlS__8k&list=PL_c9BZzLwBRKC2PJwLFxc2y6cyXYYQzj3	'SQL SERVER COMPLETE SERIES BY CALEB 2016 (33)
+https://www.youtube.com/watch?v=ZNObiptSMSI&list=PL08903FB7ACA1C2FB			'SQL SERVER TUTORIAL BY KUDVENKAT 2012 (149)
+https://www.youtube.com/watch?v=2-1XQHAgDsM&list=PL6EDEB03D20332309			'SQL SERVER QUERIES BY WISEOWLTUTORIAL 2012 (12)
+https://www.youtube.com/watch?v=fjNsRV4zLdc&list=PLNIs-AWhQzcleQWADpUgriRxebMkMmi4H	'SQL SERVER PROCEDURES & PROGRAMMING BY WISEOWLTUTORIAL 2012 (18)
+https://www.youtube.com/watch?v=QHYuuXPdQNM&list=PL_c9BZzLwBRJ8f9-pSPbxSSG6lNgxQ4m9	'ORACLE SQL TUTORIAL BY CALEB 2015 (33)
+
+
+****************************************************************
+			LARAVEL COURSES
+****************************************************************
+https://www.youtube.com/watch?v=uANgBsrlxsA&list=PLfdtiltiRHWG9NCBuCzAEs14hRbND7MZ0	'LARAVEL 5 WHAT'S NEW BY CODECOURSE 2015 (5)*
+https://www.youtube.com/watch?v=Hzm9L3yVCt0&list=PL3ZhWMazGi9IcgWunA4izwTkd9QjSGW2j	'LARAVEL 5.1 TUTORIALS BY DEVLOB 2015 (8)*
+https://www.youtube.com/watch?v=a8ZpAf_tNh0&list=PL3ZhWMazGi9IYymniZgqwnYuPFDvaEHJb	'LARAVEL 5.3 TUTORIALS BY DEVLOB 2016 (38)*
+https://www.youtube.com/watch?v=lnf1GdNxDbc&list=PL_UnIDIwT95NUvLU14l_QFFV2ZxO1phpQ	'LARAVEL 5.1 BASICS BY DEVDOJO 2015 (13)*
+https://www.youtube.com/watch?v=6V-PqdNnNW0&list=PL_UnIDIwT95PdM78SPaEiaS0fAdHsmvbQ	'LARAVEL 5.3 BASICS BY DEVDOJO 2016 (14)*
+https://www.youtube.com/watch?v=EU7PRmCpx-0&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-	'LARAVEL FROM SCRATCH BY TRAVERSY MEDIA 2017 (13)*
+https://www.youtube.com/watch?v=e2MLepOlT9Q&list=PLfdtiltiRHWGr4dOMCX2ZQv77jVY03zBv	'LARAVEL BASICS BY CODECOURSE 2014 (11)*
+https://www.youtube.com/watch?v=tbPGuikTzKk&list=PLfdtiltiRHWEaImCreOC7UkK4U5Xv9LdI	'LARAVEL HOMESTEAD BY CODECOURSE 2015 (4)
+https://www.youtube.com/watch?v=0AKMvpbMoH0&list=PL55RiY5tL51rJ9-9XF6ru4rrmyYkgemu4	'LARAVEL HOMESTEAD BY ACADEMIND 2016 (3)
+https://www.youtube.com/watch?v=mghrMCsDpug&list=PL55RiY5tL51r_qJPESCy5ScfwTo2klnlW	'LARAVEL PLAYGROUND BY ACADEMIND 2016 (7)
+https://www.youtube.com/watch?v=xIBST5vVq84&list=PLfdtiltiRHWEb-tzSN99Zy-39Y1tKl5DB	'LARAVEL ELOQUENT RELATIONSHIP BY CODECOURSE 2014 (6)
+https://www.youtube.com/watch?v=2hQp6lsBbHQ&list=PLfdtiltiRHWEYFkyzogLKB-guus5bBzlL	'LARAVEL MIGRATIONS BY CODECOURSE 2014 (4)
+https://www.youtube.com/watch?v=vu7l574xVao&list=PL55RiY5tL51rrgq6xi67Mc6cwOHXw_nB1	'LARAVEL WITH ANGULAR 2 AND VUE.JS BY ACADEMIND 2017 (19)
+https://www.youtube.com/watch?v=sLrcpISBQec&list=PLwAKR305CRO9zBwsxFF9o69Os4621aP4e	'LARAVEL 5.4 NEW FEATURES BY DEVMARKETER 2017 (8)
+https://www.youtube.com/watch?v=LDjVfZPk0K4&list=PLwAKR305CRO_iqSrfdxC2SQEq31kJ4EaN	'LARAVEL 5.3 NEW FEATURES BY DEVMARKETER 2016 (4)
+https://www.youtube.com/watch?v=5Y4STYfvpk4&list=PLwAKR305CRO_WMJAJxGz6UCViQyAjdjgo	'LARAVEL DEPLOYING AN APP ULTIMATE GUIDE BY DEVMARKETER 2016 (5)
+https://www.youtube.com/watch?v=p1H5KykBNTs&list=PLfdtiltiRHWGIEdk9-l0I8YOVyHQEzlII	'DEPLOYING LARAVEL APPLICATION WITH FORGE & ENVOYER BY CODECOURSE 2015 (11)	
+
+
+****************************************************************
+			NODE COURSES
+****************************************************************
+https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp		'NODE.JS TUTORIAL FOR BEGINNER BY NETNINJA 2016 (37)
+https://www.youtube.com/watch?v=tlntE8fe6u4&list=PLillGF-Rfqbb786uDGaO8r9atpx1kt3iP		'NODE.JS BASICS BY TRAVERSY MEDIA 2014 (4)
+https://www.youtube.com/watch?v=65a5QQ3ZR2g&list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR		'NODE.JS BASICS BY ACADEMIND 2016 (18)
+https://www.youtube.com/watch?v=pU9Q6oiQNd0&index=1&list=PLoYCgNOIyGAACzU6GliHJDp4kmOw3NFsh	'NODE.JS BASICS BY LEARNCODE 2014 (11)
+https://www.youtube.com/watch?v=-u-j7uqU7sI&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_		'NODE.JS BY THENEWBOSTON 2015 (22)
+https://www.youtube.com/watch?v=spPtAEmwys4&list=PLS1QulWo1RIb8IwHYfah5pxGU5jgNiEbK		'NODE.JS BY PROGRAMMINGKNOWLEDGE 2016 (21)
+https://www.youtube.com/watch?v=K4PpZc7AiHI&list=PLGquJ_T_JBMTpKQptCmBDM9HcYrptCV0Z		'EXPRESS.JS FUNDAMENTALS BY JSWIZ 2015 (8)
+https://www.youtube.com/watch?v=pgHcWAh9sFA&list=PLYxzS__5yYQmHbpKMARP04F344zYRX91I		'NODE.JS & EXPRESS TUTORIAL BY CODEDAMN 2016 (26)
+https://www.youtube.com/watch?v=k_0ZzvHbNBQ&list=PLillGF-RfqbYRpji8t4SxUkMxfowG4Kqp		'NODE.JS & EXPRESS FROM SCRATCH BY TRAVERSY MEDIA 2017 (8)
+https://www.youtube.com/watch?v=6fj0cpmMiVg&list=PLC3y8-rFHvwhgWwm5J3KqzX47n7dwWNrq		'NPM TUTORIAL FOR BEGINNER BY CODEVOLUTION 2016 (16)
+
+
+****************************************************************
+			MONGODB COURSES
+****************************************************************
+https://www.youtube.com/watch?v=9OPP_1eAENg&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u	'MONGODB TUTORIALS BY NETNINJA 2017 (16)
+https://www.youtube.com/watch?v=YYnf5vJRuUY&list=PLC3y8-rFHvwh11bWtwm3_qKvo46uDmaal	'MONGODB TUTORIAL BY CODEVOLUTION 2015 (24)
+https://www.youtube.com/watch?v=GtD93tVZDX4&list=PLS1QulWo1RIZtR6bncmSaH8fB81oRl6MP	'MONGODB TUTORIAL BY PROGRAMMINGKNOWLEDGE 2016 (18)
+https://www.youtube.com/watch?v=-0X8mr6Q8Ew&list=PLGLfVvz_LVvRfdt8_W0dV311Xa8SayfCY	'MONGODB TUTORIAL BY DEREK BANAS 2015 (4)
+
+
+****************************************************************
+			MEANSTACK COURSES
+****************************************************************
+https://www.youtube.com/watch?v=QETUuZ27N0w&list=PLoYCgNOIyGAApoDfJHjmMgGNlYenKg5jO		'MEAN STACK TUTORIAL BY LEARNCODE 2013 (12)
+https://www.youtube.com/watch?v=uONz0lEWft0&index=1&list=PLillGF-RfqbZMNtaOXJQiDebNXjVapWPZ	'MEAN STACK FRONT TO BACK BY TRAVERSY MEDIA 2017 (10)
+https://www.youtube.com/watch?v=vLvNr3Wa5YI&list=PLC3y8-rFHvwj200LLotCYum_9wmGeTJx9		'MEAN STACK TUTORIAL BY CODEVOLUTION 2017 (24)
+
+
+****************************************************************
+			RUBY ON RAILS COURSES
+****************************************************************
+https://www.youtube.com/watch?v=nRyUn7D8zCc&list=PLqGj3iMvMa4JiH5mEBG4GNHWdC2u9xdzF	'RUBY ON RAILS BASICS BY DEVTIPS 2015 (5)
+https://www.youtube.com/watch?v=GY7Ps8fqGdc&list=PLGLfVvz_LVvSngZQwrhYXlPnJf1zYqghI	'RUBY ON RAILS BY DEREK BANAS 2015 (5)
+https://www.youtube.com/watch?v=exEduZlJS7Q&list=PLDmvslp_VR0xlwr5lAx2PDsZLu7oIOhpX	'RUBY ON RAILS BY EDUONIX 2014 (38)
+https://www.youtube.com/watch?v=t71wTGFM2bc&list=PLuVcDOUVjW2eCt6IF7o0B1Kar8wtyTCUW	'RUBY AND RAILS BY CODESCHOOL 2013 (9)
+
+
+****************************************************************
+		NETWORKING AND SECURITY COURSES
+****************************************************************
+https://www.youtube.com/watch?v=ueVnSz_lXEs&list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO	'NETWORKING BY THENEWBOSTON 2012 (40)
+https://www.youtube.com/watch?v=wd9KdsxTVa8&list=PL6gx4Cwl9DGC04FAovs0lswXTPXeomORn	'WIFI SECURITY 2015 (18)
+https://www.youtube.com/watch?v=rL8RSFQG8do&list=PLF360ED1082F6F2A5			'NETWORKING BY ELI 2011 (29)*
+https://www.youtube.com/watch?v=GouB0ps9uTU&list=PLp4w7b_XLssS2d2gbkesLY5uSxWoufdkN	'WEBSITE SECURITY BY GEEKSFORT 2016 (28)
+https://www.youtube.com/watch?v=rNkR1Joz4eU&list=PLXeP8kcqVNLAK_YrZ74ye0CsEes-oWrwU	'WEB PENETRATION TESTING BY ADRIAN 2013 (12)
+https://www.youtube.com/watch?v=0evs5fatRec&list=PLZGJs9SzxCwokDthOJBxGL9BiucUfokzB	'ADVANCED HACKING AND PENETRATION BY ANDI 2015 (72)
+https://www.youtube.com/watch?v=Fj0n17Jtnzw&list=PLZOToVAK85MqYHbkAVK-ViD-Xb7pF6RKq	'WEB APPLICATION PEN-TESTING BY WEBPWNIZED 2012 (102)
+https://www.youtube.com/watch?v=CDxaRfwzFrs&list=PLC71D7CFB6AF935E6			'SERVERS BY ELI 2011 (11)
+https://www.youtube.com/watch?v=amLCDNYDIkk&list=PL6B10FA35AACFA6E7			'COMPUTER REPAIR BY ELI 2013 (21)
+https://www.youtube.com/watch?v=6TMrAZCXMuQ&list=PL3662BFBEA6071A4E			'COMPUTER SECURITY AND DATA INTEGRITY 2013 (23)
+https://www.youtube.com/watch?v=dIFKmJ4wufc&list=PLJcaPjxegjBVnEN8c6O8w1mNit4WGeAWN	'WINDOWS SERVER BY ELI 2013 (22)
+
+
+****************************************************************
+			BUILDING WEB AND APPS
+****************************************************************
+https://www.youtube.com/watch?v=vohA1RC_GBE&list=PLWjCJDeWfDdceXtH4ZLTh0v4AbP3g2msI		'RESPONSIVE ANIMATED DASHBOARD BY THOMAS BRADLEY 2015 (23)*
+https://www.youtube.com/watch?v=Pq08fNMOn7s&list=PLLnpHn493BHHhCVlCRhAMpeFwDH2BTE3p&index=2	'BUILDING YOUR FIRST WEBSITE BY LEVELUPTUTS 2015 (19)*
+https://www.youtube.com/watch?v=S-zybyn-rSs&list=PLqGj3iMvMa4KaxVfiT0ZMBRxtnFgQh-DL		'WEBFLOW BUILDING WEB FROM SCRATCH BY DEVTIPS 2016 (5)
+https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PLqGj3iMvMa4KQZUkRjfwMmTq_f1fbxerI&index=1	'BUILDING RESPONSIVE WEBSITE BY DEVTIPS 2014 (26)*
+https://www.youtube.com/watch?v=sJhhLvW-Xvg&list=PLqGj3iMvMa4KeBN2krBtcO3U90_7SOl-A		'DESIGN AND CODE PERSONAL SITE BY DEVTIPS 2015 (28)*
+https://www.youtube.com/watch?v=u4-aItfZQuo&list=PLAkMqlQoeMeiwvNWpe3mhgQxAa1jiGwmt		'DEVELOPING A DYNAMIC WEBSITE BY DIGICRAFT 2014 (112)*
+https://www.youtube.com/watch?v=tsNnzAwT5MQ&list=PLB405F6C3018255C0				'DEVELOPING A SITE FROM START TO FINISH BY DIGICRAFT 2012 (23)
+https://www.youtube.com/watch?v=Mu74UmFBAq8&list=PLillGF-RfqbbpWowfjk9_Vv8XUuTBFPut		'HTML5 TEMPLATE WITH SASS AND BOOTSTRAP BY TRAVERSY MEDIA 2014 (11)*
+https://www.youtube.com/watch?v=RzEzFVmtK0I&list=PL4cUxeGkcC9jjVlRiZnRnAGFSCK3Lu_i-		'PSD TO WEB (UNRESPONSIVE) BY NETNINJA 2015 (11)
+https://www.youtube.com/watch?v=KiFqtm0kRlI&list=PL4cUxeGkcC9j-0YIv3EDq58-B1yZWvw8_		'PSD TO WEB (RESPONSIVE) BY NETNINJA 2016 (12)*
+https://www.youtube.com/watch?v=aQuVW55zhmU&list=PLillGF-RfqbZmD0PK6TRJwEd5GHM8f7om		'BUILD A WEBSITE WITH FOUNDATION AND SASS BY TRAVERSY MEDIA 2017 (3)
+https://www.youtube.com/watch?v=-fNqm1FgoxU&list=PLfdtiltiRHWGwjBcz0zi4cijbfzADPRG4		'AJAX-JQUERY MODAL/LIGHTBOX PLUGIN BY CODECOURSE 2014 (3)
+https://www.youtube.com/watch?v=53b9Zop50R8&list=PLfdtiltiRHWHCzhdE0N1zmeFHlEuqxQvm		'AJAX MULTIPLE FILE UPLOADER WITH PROGRESS BAR BY CODECOURSE 2014 (10)
+https://www.youtube.com/watch?v=BqI54Snkw0s&list=PLfdtiltiRHWFWTQ7GjIsn9mEcVcgcMqwu		'HTML GEOLOCATION API BY CODECOURSE 2013 (4)*
+https://www.youtube.com/watch?v=m4sioSqlXhQ&list=PLfdtiltiRHWHfOVfqI89Nc3xUMY-q-7f0		'HTML5 DRAWING APP WITH CANVAS BY CODECOURSE 2013 (6)
+https://www.youtube.com/watch?v=ADtas-w_yCk&list=PLFgUdubu2ofh03j2nxGDeiE7OEiuhGsMu&index=65	'BUILD RESPONSIVE REAL WORLD WEBSITE BY LPMS 2015 (65)
+https://www.youtube.com/watch?v=pTfVK73CUk8&list=PL7C25B2F18F68F3EF				'JAVASCRIPT AJAX FILE UPLOAD WITH PROGRESS INDICATOR BY CODECOURSE 2012 (5)
+https://www.youtube.com/watch?v=ZW7fDP-SubU&list=PLfdtiltiRHWHeVxWAUcT86nE0bs6s4EXe		'CREATING COOKIE BANNER BY CODECOURSE 2013 (2)
+https://www.youtube.com/watch?v=r7EhBTPlQkk&list=PL55RiY5tL51rslbEyCA6Gm2mRQ9VJxAYh		'ANGULAR 2 WEATHER APP BY ACADEMIND (12)
+https://www.youtube.com/watch?v=f6SrTZwZi70&list=PLillGF-RfqbYmJsLiPDVoDea3lfy7-E8O		'ANGULAR 2 WITH SPOTIFY APP API BY TRAVERSY MEDIA 2016 (8)
+https://www.youtube.com/watch?v=m5fHtGtyPgk&list=PLillGF-RfqbYftYr5T6bv9idBU7oyADoZ		'ANGULAR 2 AND FIREBASE APP SERIES BY TRAVERSY MEDIA 2017 (7)
+https://www.youtube.com/watch?v=56TizEw2LgI&list=PL55RiY5tL51rajp7Xr_zk-fCFtzdlGKUp		'NODE.JS SHOPPING CART BY ACADEMIND 2016 (21)
+https://www.youtube.com/watch?v=ll4I4_y1iyo&list=PLON2INY6oesbjo6BK1oO-dlHoS184cHdG&index=1	'NODE.JS FROM SCRATCH BY EDUONIX 2015 (40) 
+https://www.youtube.com/watch?v=pNKNYLv2BpQ&list=PLicY6aYZ8ilpmHfJ8jP1lt7ihPpRWBJ9P&index=1	'NODE.JS AND SOCKET.IO CHAT APP BY SMITHA 2013 (4)
+https://www.youtube.com/watch?v=QISU14OrRbI&list=PLfdtiltiRHWHZh8C2G0xNRbcf0uyYzzK_		'NODE.JS REALTIME CHAT APP BY CODECOURSE 2014 (7)
+https://www.youtube.com/watch?v=AFiqctkoVJ4&list=PLillGF-RfqbaEmlPcX5e_ejaK7Y5MydkW		'NODE.JS AND POSTGRESQL RECIPE APP BY TRAVERSY MEDIA 2016 (7)
+https://www.youtube.com/watch?v=Z1ktxiqyiLA&list=PLillGF-RfqbbqvbObyE7CldS5-trkefnB		'NODE.JS PASSPORT LOGIN SYSTEM BY TRAVERSY MEDIA 2016 (3)
+https://www.youtube.com/watch?v=YXKCNgfdAAM&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34		'PHP AUTHENTICATION SYSTEM BY CODECOURSE 2015 (33)*
+https://www.youtube.com/watch?v=UbsAdx58ch0&list=PLfdtiltiRHWF0O8kS5D_3-nTzsFiPMOfM		'PHP BASIC CMS BY CODECOURSE 2015 (8)
+https://www.youtube.com/watch?v=wt3txKJCh-4&list=PLfdtiltiRHWEWpkWMls6o0QOVoweLevR-		'PHP TO DO LIST APP BY CODECOURSE 2014 (3)
+https://www.youtube.com/watch?v=9kyQGBABA38&list=PLE134D877783367C7				'PHP REGISTER AND LOGIN BY CODECOURSE 2012 (47)*
+https://www.youtube.com/watch?v=CizDkNNcLRg&list=PLfdtiltiRHWEM8SBc7fahXQJrUy9xmFYW		'PHP MAILER BY CODECOURSE 2014 (5)*
+https://www.youtube.com/watch?v=GL5pG1Sx-oc&list=PLfdtiltiRHWH9JN1NBpJRFUhN96KBfPmd		'PHP SHOPPING CART BY CODECOURSE 2016 (15)*
+https://www.youtube.com/watch?v=9X45izdiEnA&list=PLfdtiltiRHWHn4uErhCQEk1EIUjSGkuDk		'PHP CARD PAYMENTS FOR MEMBERSHIP BY CODECOURSE 2014 (5)*
+https://www.youtube.com/watch?v=8ArEzyCEKl4&list=PLfdtiltiRHWE_c8jjW5OeweL1c_8uqcnW		'PHP PAYPAL PAYMENT BY CODECOURSE 2014 (9)*
+https://www.youtube.com/watch?v=S_KKqjRIN-g&list=PL6gx4Cwl9DGDdipQX00Uqw3EOoL8HEezh		'PHP INSTAGRAM DOWNLOADER BY THENEWBOSTON 2014 (10)
+https://www.youtube.com/watch?v=UaWN7gObv-c&list=PLlkGN-8wjPHV41Y12LFD8uttbAd1d_ohe&index=1	'PHP SOCIAL NETWORK WEBSITE WEB INTERSECT BY ADAM KHOURY 2013 (15)
+https://www.youtube.com/watch?v=Sf4qg9evkLU&list=PLgsYR-L3Uwbps9E-xIQPajQOiZVbOo6lr		'PHP SOCIAL NETWORK WEBSITE WEB INTERSECT 2.0 BY SHAWNLOYD 2013 (45)
+https://www.youtube.com/watch?v=4Y_8LVIEGt4&list=PLB3EAF9FAA2CFA663&index=5			'PHP-JQUERY WEB INTERSECT FRIEND SYSTEM BY ADAM KHOURY 2010 (8)	
+https://www.youtube.com/watch?v=OsCTzGASImQ&list=PLfdtiltiRHWGXVHXX09fxXDi-DqInchFD		'PHP MODEL VIEW CONTROLLER (MVC) APPLICATION BY CODECOURSE 2014 (9)*
+https://www.youtube.com/watch?v=k04OC_919ZU&list=PLfdtiltiRHWFxboMVRMelHYreAJO73DPe		'PHP MAILING LIST WITH MAILGUN API BY CODECOURSE 2014 (6) 
+https://www.youtube.com/watch?v=PRCobMXhnyw&list=PLfdtiltiRHWFVuW0b79nLbW25P340j1dT		'PHP UPLOADING FILES BY CODECOURSE 2014 (2)
+https://www.youtube.com/watch?v=McefzBA0dyk&list=PL2A05BABE17D750FE				'PHP SENDING SMS BY CODECOURSE 2012 (2)
+https://www.youtube.com/watch?v=bkc2tF3BMww&list=PL10A6538B37C0DF45				'PHP SENDING SMS BY BETTERPHP 2011 (4)
+https://www.youtube.com/watch?v=HGwHJ6SF7UA&list=PLD425342CBDE95E85				'PHP READING RSS FEED BY BETTERPHP 2011 (3)
+https://www.youtube.com/watch?v=7m2OcDYu6Jw&list=PL66EB00BA2F21ED08				'PHP BLOG AND COMMENTING BY BETTERPHP 2011 (7)
+https://www.youtube.com/watch?v=hdGwOSOIp4A&list=PL51E57B85C0DF97A0				'PHP DEVELOPER API BY BETTERPHP 2011 (7)
+https://www.youtube.com/watch?v=65gV8JOgWkQ&list=PL442E340A42191003				'PHP ECOMMERCE WEBSITE BY ADAM KHOURY 2010 (20)
+https://www.youtube.com/watch?v=xHj9wQYWIQ4&list=PLFPkAJFH7I0mitTSKDaoxwfLLf-wNNnVS		'PHP ECOMMERCE WEBSITE BY CURTIS 2015 (41)*+
+https://www.youtube.com/watch?v=q171WuNGhb0&index=1&list=PLBOh8f9FoHHisZ9zCKMTcc6RDbIWdrsOa	'PHP YOUTUBE WEBSITE BY HOWCODE 2012 (31)*+
+https://www.youtube.com/watch?v=C5t-_RnNJfg&list=PLaSPP6wN3sqv24mTYXidt4OVmedypBcjH		'PHP STOCK MANAGEMENT SYSTEM BY CODERSFOLDER 2016 (10)*
+https://www.youtube.com/watch?v=uXuA_pKv5AE&list=PL1aAdDvux_slQ9RP7TDScmmo-g_5YFyhj		'PHP RSS FEED PARSER & MYSQL NEWS AGGREGATOR BY FARNETH 2012 (21)
+https://www.youtube.com/watch?v=I752ofYu7ag&list=PLillGF-RfqbaP_71rOyChhjeK1swokUIS		'CODEIGNITER BLOG APP BY TRAVERSY MEDIA 2016 (8)
+https://www.youtube.com/watch?v=cEYLjsEKyy8&list=PLfdtiltiRHWGGxaR6uFtwZnnbcXqyq8JD		'LARAVEL SOCIAL NETWORKING BY CODECOURSE 2015 (37)*
+https://www.youtube.com/watch?v=GqRqlvgByNk&list=PL3ZhWMazGi9KB9PajJHWvV2NJ1ITNoNGp		'LARAVEL & SENTINEL AUTHENTICATION SYSTEM BY DEVLOB 2016 (16)
+https://www.youtube.com/watch?v=C74aWL_D5v4&list=PLEHx9BVUzI6azngG9f0IaarrG1XVWKbqp		'LARAVEL CREATING ADMIN PANEL BY ALEX PETRO 2016 (6)
+https://www.youtube.com/watch?v=sfSjm-MwhNM&list=PLfdtiltiRHWGH8AngyP6cp525_R_NExcR		'LARAVEL TO DO LIST APP BY CODECOURSE 2014 (9)
+https://www.youtube.com/watch?v=56TizEw2LgI&list=PL55RiY5tL51qUXDyBqx0mKVOhLNFwwxvH		'LARAVEL SHOPPING CART BY ACADEMIND 2016 (17)
+https://www.youtube.com/watch?v=Md49si6S_tk&list=PLfdtiltiRHWFY2IffzknG0ZRma0IZ7Wb_		'LARAVEL PASSWORDLESS AUTHENTICATION BY CODECOURSE 2016 (6)
+https://www.youtube.com/watch?v=_dd4-HEPejU&list=PL55RiY5tL51oloSGk5XdO2MGjPqc0BxGV		'LARAVEL 5.2 PHP BUILDING SOCIAL NETWORKING SITE BY ACADEMIND 2016 (22)
+https://www.youtube.com/watch?v=Rawtpep4eLY&list=PLfdtiltiRHWFT5380KA8tSJl7R5GajzSX		'LARAVEL SUBSCRIPTION WITH CARDPAYMENT BY CODECOURSE 2014 (11)
+https://www.youtube.com/watch?v=AGWoGswmjfk&list=PLfdtiltiRHWHeQqj51XwZYQPtr48m-00c		'LARAVEL TASKLIST BY CODECOURSE 2016 (7)
+https://www.youtube.com/watch?v=iKRLrJXNN4M&list=PLwAKR305CRO9S6KVHMJYqZpjPzGPWuQ7Q		'LARAVEL 5.4 MULTIPLE AUTHENTICATION BY DEVMARKETER 2017 (5)
+https://www.youtube.com/watch?v=R8B4og-BeCk&list=PLwAKR305CRO-Q90J---jXVzbOd4CDRbVx		'LARAVEL BUILDING A BLOG BY DEVMARKETER 2016 (54)*
+https://www.youtube.com/watch?v=CnmA9thL7UI&list=PLfdtiltiRHWGw09AQ9vJennZ-P4pMntS_		'LARAVEL FLEXIBLE FLASH NOTIFICATION BY CODECOURSE 2015 (5)*
+https://www.youtube.com/watch?v=gHPL_2IsZlI&list=PLillGF-RfqbbtvHn2l1sOSzEJZ6lpcLci		'IONIC MOBILE APP DEVELOPMENT BY TRAVERSY MEDIA 2016 (4)
+https://www.youtube.com/watch?v=LHzAa4NKFx0							'IONIC 2 FULL APP BY ACADEMIND 2017 (2)*
+https://www.youtube.com/watch?v=BIuGAW6OTMU&list=PLfdtiltiRHWHgKq7ic-W7yK_LhTQkZACZ		'VIDEO SHARING WITH CLIPCHAMP BATCH 1 BY CODECOURSE 2016 (11)
+https://www.youtube.com/watch?v=3ovAM65ra5s&list=PLfdtiltiRHWESrLPj68CwVsDsWyFfxLKg		'VIDEO SHARING WITH CLIPCHAMP BATCH 2 BY CODECOURSE 2016 (6)
+https://www.youtube.com/watch?v=LySxjb7s4d8&list=PLfdtiltiRHWHaxk9c_7ERBj5tU7CmOv_k		'MINI UPLOAD IMAGE WEBSITE BY CODECOURSE 2016 (7)
+https://www.youtube.com/watch?v=4fcuqtnMuIU&list=PLfdtiltiRHWEdQ2Wzp8cOdz4Q0rNPuE3G		'BUILD A POLL WITH PHP BY CODECOURSE 2014 (7)
+https://www.youtube.com/watch?v=rzxNpfiLHSg&list=PLwAKR305CRO_cukAejlt5kz3pTtDMW_Cd		'BUILDING ADVANCE BLOG CMS BY DEVMARKETER 2016 (9)*
+https://www.youtube.com/watch?v=2RRSw7Ycv0c&list=PLBOh8f9FoHHjdsAWwUjKk-QOlmBw-0Bvr		'MAKE YOUR OWN WEB CRAWLER BY HOWCODE 2016 (7)
+https://www.youtube.com/watch?v=E0K9-0COv-M&list=PLBOh8f9FoHHhSQvHymWKA06r5v7pnYglW		'MAKE YOUR OWN SEARCH ENGINE BY HOWCODE 2016 (6)
+https://www.youtube.com/watch?v=iyg_fk36p0Y&list=PLBOh8f9FoHHjz91tWQ5AtBoVwOVhP1Di7		'MAKE YOUR OWN MESSENGER APP BY HOWCODE 2015 (9)
+https://www.youtube.com/watch?v=y6lTgj3CbYU&list=PLBOh8f9FoHHi7pLdzDtflJ5l3iNu13jm0		'MAKE YOUR OWN URL SHORTENER BY HOWCODE 2015 (5)
+https://www.youtube.com/watch?v=Tz0diJIIM58&list=PLA7F9875BD031DC16				'SOCIAL NETWORKING (UNCOMPLETE) BY HOWCODE 2012 (42)
+https://www.youtube.com/watch?v=LOyrlwj41RI&list=PLfdtiltiRHWEBJZe0N2vDxmxBAQt_KUWy		'BUILDING SELF-DESTRUCTING MESSAGE APP BY CODECOURSE 2015 (13)
+https://www.youtube.com/watch?v=oxa581kKBNg&list=PLfdtiltiRHWFIbiGNaGW1qreZNrx7uOAG		'SIGN IN WITH GOOGLE BY CODECOURSE 2014 (5)*
+https://www.youtube.com/watch?v=Jp-Yb-lwYkY&list=PLfdtiltiRHWHRMnQjPn9G2c1_mbdST9Ao		'SIGN IN WITH TWITTER BY CODECOURSE 2014 (5)*
+https://www.youtube.com/watch?v=c_hNNAdyfQk&list=PLfdtiltiRHWF5Rhuk7k4UAU1_yLAZzhWc		'OOP LOGIN AND REGISTRATION BY CODECOURSE 2013 (23)*
+https://www.youtube.com/watch?v=iojc83oJXMg&list=PL43bbfiC0wjjEknzDFV2SYurgSMQF1hQ8		'MULTI VENDOR WEBSITE LIKE AMAZON BY MATTHEW 2016 (59)
+https://www.youtube.com/watch?v=Fr-cDlcXuxU&list=PL_V0HGzQUVJ8lcpEoMaiMVHcI73CVqeUO		'HTML EMAIL TUTORIAL BY EDHART 2011 (10)
+https://www.youtube.com/watch?v=4qpXnIAZ9Dk&list=PLYHcCSWbw4G6s7NVi2RK0TKd69PdB0sWe		'BUILDING PROGRESSIVE WEB APPS WITH REACT BY KRISTIAN 2017 (7)
+https://www.youtube.com/watch?v=qmNPpoVkY2Y&list=PLzQWIQOqeUSNX_ZDqt9L3TMSwFa9GbIwp		'BUILD A MEETUP APP WITH REACT NATIVE & NODEJS BY EQUIMPER 2017 (15)
+https://www.youtube.com/watch?v=UL66bwInJHY&list=PLzQWIQOqeUSMzMUEJA0XrOxJbX8WTiCJV		'CREATE API WITH NODEJS & MONGODB BY EQUIMPER 2017 (12)
+https://www.youtube.com/watch?v=nWBtU2QNhxk&list=PL4cUxeGkcC9i2TdO1NqDg0KigL-WkL4Vl		'REALTIME CHAT APP WITH VUE & FIREBASE BY NETNINJA 2018 (8)
+https://www.youtube.com/watch?v=i3n-BZ2UHO0&list=PLAwxTw4SYaPlUUkh6txMRXE-w-6N1Z225		'HTML5 GAME DEVELOPMENT BY UDACITY 2015 (210)
+
+****************************************************************
+			MISCELLANEOUS
+****************************************************************
+https://www.youtube.com/watch?v=BRdcRFvuqsE&list=PL4cUxeGkcC9jBcybHMTIia56aV21o2cZ8		'RESTFUL API TUTORIALS BY NETNINJA 2017 (17)*
+https://www.youtube.com/watch?v=CcjREZIwzv8&list=PL41lfR-6DnOqPsuqxjRchhBf2m78DOMbM		'CPANEL GUIDE BY QUENTIN WATTS 2015 (11)*
+https://www.youtube.com/watch?v=XrMTuTzX4co&list=PLfdtiltiRHWEzMJ3vc_lU2bAVf4JVOfzU		'RESPONSIVE WEB DESIGN BY CODECOURSE 2014 (5)*
+https://www.youtube.com/watch?v=3tLb3i7GB38&list=PL4cUxeGkcC9g9Vh9MAA-XKnfJsWZnPZFw		'RESPONSIVE WEB DESIGN BY NETNINJA 2015 (12)*
+https://www.youtube.com/watch?v=BwlZRpI0vk0&list=PLfdtiltiRHWFuRwcp93nixCyT7zhHWUi1		'HOSTING GUIDE BY CODECOURSE 2015 (8)*
+https://www.youtube.com/watch?v=nV9PLPFTnkE&list=PLfdtiltiRHWEQ6wtGVC57qrlRtQPyylya		'USING CHROME DEVELOPER TOOLS BY CODECOURSE 2015 (6)*
+https://www.youtube.com/watch?v=nOEw9iiopwI&list=PLezb8u4j2ZFcV84LOIYR_5OSn5tkYv9tR		'CHROME DEVELOPER TOOL TUTORIAL COLLECTIONS BY SASHA 2011 (48)
+https://www.youtube.com/watch?v=hExwnLlj2xk&list=PLqGj3iMvMa4LlJBVLsSGUCIBW0t_Cuovo		'WEB DESIGN TRENDS BY DEVTIPS 2015 (4)*
+https://www.youtube.com/watch?v=d4P8s-mkMvs&list=PLqGj3iMvMa4L8L9p0bCpBn6A5lwKxqwqR		'TRAVIS EVERYWHERE MISCELLANEOUS STUFF BY DEVTIPS 2014 (11)*
+https://www.youtube.com/watch?v=RTjd1nwvlj4&list=PLoUqhPKdwRcbEgwrqaSrAh7a8m67x0_g8		'WEB FUNDAMENTALS BY WEBCONCEPT 2016 (7)*
+https://www.youtube.com/watch?v=azlhEegg5LA&list=PL55RiY5tL51q5zdtvyZJd2-ipHaeERn7O		'STYLIN AROUND BY ACADEMIND 2015 (6)*
+https://www.youtube.com/watch?v=BnIZVHmROkk&list=PLwAKR305CRO8y37vxequFuYEL10ovO2d0		'LEARNING COMPOSER BY DEVMARKTER 2015 (3)
+https://www.youtube.com/watch?v=c7av3YkI5e4&list=PLZU0qJlzY07WwVlxzHMwN0pJmMrc7LMLT		'PHP COMPOSER TUTORIAL BY LAMIN 2016 (19)
+https://www.youtube.com/watch?v=aD94FQ-WsIg&list=PLLnpHn493BHGpGXukqYsxwQw3ziW3uti6		'WEB OPTIMIZATION AND PERFORMANCE BY LEVELUPTUTS 2015 (10)*
+https://www.youtube.com/watch?v=F2jfZ9AwwAQ&list=PL6gx4Cwl9DGBqMdJssJaiG3c9RooWQiU3		'SEO BASICS BY THENEWBOSTON 2016 (16)
+https://www.youtube.com/watch?v=yi0FhRqDJfo&list=PL7zRJGi6nMRzHkyXpGZJg3KfRSCrF15Jg		'INFORMATION TECHNOLOGY BY POWERCERT 2016 (13)*
+https://www.youtube.com/watch?v=X7j6raOVXuU&list=PLYxzS__5yYQnRizvwNYWwzFjd9J4ni_Ga		'WEBSOCKET TUTORIAL BY CODEDAMN 2016 (10)
+https://www.youtube.com/watch?v=vQjiN8Qgs3c&list=PL4cUxeGkcC9i4V-_ZVwLmOusj8YAUhj_9		'WEBSOCKET (NODE AND SOCKET.IO CHAT APP) BY NETNINJA 2017 (5)
+https://www.youtube.com/watch?v=hADI92zCIvE&list=PLYxzS__5yYQkX-95LHG5EDxPj3tVvVmRd		'TYPESCRIPT TUTORIAL BY CODEDAMN 2016 (19)
+https://www.youtube.com/watch?v=T9wOu11uU6U&list=PL55RiY5tL51pHpagYcrN9ubNLVXF8rGVi		'UNDERSTANDING RXJS BY ACADEMIND 2017 (8)
+https://www.youtube.com/watch?v=bo5MM2N_3tw&list=PLoYCgNOIyGAB0_YBfdNP5oqAD98HtAQqL		'PRO WEBDEV TOOLS BY LEARNCODE 2014 (15)*
+https://www.youtube.com/watch?v=3JluqTojuME&list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc		'WEB DEVELOPMENT BASICS BY LEARNCODE 2013 (10)*
+https://www.youtube.com/watch?v=CDw_NRuOqEQ&list=PLfdtiltiRHWEuNHKuIheLV8efTxDm3EII		'MAKING SUBLIME AWESOME BY CODECOURSE 2016 (13)*
+https://www.youtube.com/watch?v=JRv5KmLrS8U&list=PLfdtiltiRHWEVes2oVB7hXSkOa1MmAxeN		'SUBLIME TIPS BY CODECOURSE 2014 (16)*+
+https://www.youtube.com/watch?v=SVkR1ZkNusI&list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK		'SUBLIME TEXT TUTORIALS BY LEARNWEBCODE 2014 (12)*+
+https://www.youtube.com/watch?v=k01udDD-UwI&list=PLLnpHn493BHEYF4EX3sAhVG2rTqCvLnsP		'SUBLIME TEXT 2 BY LEVELUPTUTS 2012 (24)*+
+https://www.youtube.com/watch?v=FsQZyNpDWv0&list=PLfdtiltiRHWGOceoK3I3LrDL6x8mM0Ipb		'DROPBOX API AND PHP BY CODECOURSE 2014 (6)
+https://www.youtube.com/watch?v=lpxXHkZSl1Q&list=PLfdtiltiRHWEYqBpQVQRkGNe0ForwPDWL		'BEM (BLOCK,ELEMENT,MODIFIER) BY CODECOURSE 2015 (6)
+https://www.youtube.com/watch?v=yreJBmV4_6c&list=PLLnpHn493BHGmEYzbjWPJsnRMhvs-PSYG		'COMMAND LINE BASICS BY LEVELUPTUTS 2014 (7)*
+https://www.youtube.com/watch?v=rl7PzPAZDyY&list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf		'COMMAND LINE POWER USER BY WESBOS 2015 (11)*
+https://www.youtube.com/watch?v=WWwBQQOGllo&list=PLLnpHn493BHHf0w8uGu9NM8LPf498ZvL_		'ATOM EDITOR BY LEVELUPTUTS 2016 (22)*+
+https://www.youtube.com/watch?v=hPC6keUUiTA&list=PLqGj3iMvMa4J0MJhTSUwrb_6hJ5iMGWgf		'ATOM EDITOR BY DEVTIPS 2016 (3)*+
+https://www.youtube.com/watch?v=ytRnPV0kRN0&list=PL4cUxeGkcC9iTQ3J5oa6orDIMQKKxl8dC		'WEBPACK BY NETNINJA 2016 (6)
+https://www.youtube.com/watch?v=GU-2T7k9NfI&list=PL55RiY5tL51rcCnrOrZixuOsZhAHHy6os		'WEBPACK 2 BASICS BY ACADEMIND 2017 (7)
+https://www.youtube.com/watch?v=u83MLQ1VsKI&list=PLillGF-RfqbYW0NKmGys-7IzluvxPixm9		'FREE STYLE CODING BY TRAVERSY MEDIA 2016 (7)
+https://www.youtube.com/watch?v=eB9Fq9I5ocs&list=PLoUqhPKdwRcYjCt6znpSHBWh6JpfyJ1KJ		'MODERN WEB DEVELOPMENT BY TRAVERSY MEDIA 2016 (52)*
+https://www.youtube.com/watch?v=muZ0JYBCnrU&list=PLoUqhPKdwRcbdL5Gbiy1hpgopAXP6aimw		'MODERN WEB DEVELOPMENT BY DREW RYAN 2016 (26)*
+https://www.youtube.com/watch?v=rJesac0_Ftw&list=PLoUqhPKdwRcbm0RDcuppGkOYUZhKX6uoO		'WEB ESSENTIALS (69)*
+https://www.youtube.com/watch?v=TZRMsb-G_4U&list=PLrG78JjvL7hUIPaaQknbpMcfqNT6PS1pO		'BEGINNERS GUIDE TO RESPONSIVE WEB DESIGN BY JOHN MORRIS 2015 (12) 
+https://www.youtube.com/watch?v=jQaUOxobMnc&list=PLrG78JjvL7hWF0FV25PuRjNEjTT_9n0ZY		'FACEBOOK MARKETING AND ADVERTISING BY JOHN MORRIS 2015 (5)
+https://www.youtube.com/watch?v=jWmCcRCU-_w&list=PLillGF-RfqbbgNtw__dGpFqx6AebRcjSm		'UBUNTU SERVER SETUP BY TRAVERSY MEDIA 2014 (5)
+https://www.youtube.com/watch?v=QH94CXVv3UE&index=1&list=PLNYkxOF6rcIB3ci6nwNyLYNU6RDOU3YyL	'TOTALLY TOOLING TIPS WITH ADDY & MATT BY GOOGLE DEVELOPERS 2016 (40)
+https://www.youtube.com/watch?v=sBuUpu-7Cmo&list=PL6F3630784B97B1E0				'WEB DEVELOPMENT ESSENTIALS BY BLUEHOST 2016 (19)
+https://www.youtube.com/watch?v=kXTP8XqrSwE&index=2&list=PL4BC6BE6AA61BE69D			'BRACKETS PLUGINS BY LEE BRIMLOW 2013 (8)
+https://www.youtube.com/watch?v=11qKvgM-pFw&list=PL_VA_vL3FHcZxaB36NcOtQIWqz7bXKWLo		'BRACKETS QUIKCODING BY LISA CATALONO 2014 (26)
+https://www.youtube.com/watch?v=kr76wvIFUXE&list=PLrG78JjvL7hWah18gU57tCtbFOvsxl9pp		'THE JOHN MORRIS SHOW BY JOHN MORRIS 2016 (145)
+https://www.youtube.com/watch?v=8ZOgPCtZvoU&list=PL95EC7BCDFC1136FD				'WEB DESIGN BY ELI 2011 (8)
+https://www.youtube.com/watch?v=MR1UzwbUe_Y&list=PL07641EF0EA989FC1				'WEB PUBLISHING BY ELI 2010 (13)
+https://www.youtube.com/watch?v=JS8DatEzGV8&list=PL883783F29CF136EF				'WEB MARKETING BY ELI 2010 (13)
+https://www.youtube.com/watch?v=ny1O96OD7qk&list=PL3EFBFBCE1249ABC0				'CLOUD AND VIRTUAL COMPUTING BY ELI 2013 (14)
+https://www.youtube.com/watch?v=ny1O96OD7qk&list=PL3662BFBEA6071A4E				'COMPUTER SECURITY AND DATA INTEGRITY BY ELI 2013 (20)
+https://www.youtube.com/watch?v=k9ak_rv9X0Y&list=PLfdtiltiRHWGXSggf05W-pJbD47-_d8bJ		'UNIT TESTING WITH PHPUNIT BY CODECOURSE 2017 (10)*
+https://www.youtube.com/watch?v=MSNYzz4Khuk&list=PLBEpR3pmwCayt4DR0UbhMgCfxHQWi0RCQ		'SLIM FRAMEWORK TUTORIAL BY DAVID 2016 (5)
+https://www.youtube.com/watch?v=sRfYgco3xo4&list=PLfdtiltiRHWF8E-svJZou7ok03vx0rBvW		'SLIM 2 BY CODECOURSE 2015 (4)
+https://www.youtube.com/watch?v=RhcQXFeor9g&list=PLfdtiltiRHWGc_yY90XRdq6mRww042aEC		'SLIM 3 AUTHENTICATION BY CODECOURSE 2016 (29)
+https://www.youtube.com/watch?v=GHa2XBAx7WU&list=PLfdtiltiRHWGCIczbbhNlT6hqh-dMuxQQ		'SLIM CSRF PROTECTION BY CODECOURSE 2017 (5)
+https://www.youtube.com/watch?v=SVb0whlghQY&list=PLfdtiltiRHWEDq2ZY4sK5551_7ePE-SI8		'PHP TEMPLATING WITH TWIG BY CODECOURSE 2014 (5)
+https://www.youtube.com/watch?v=b_eU962en2k&list=PLCOe2mg1ZXrmd9FSDOBLaOVzrUapVjZ59		'TWIG TEMPLATING ENGINE TUTORIAL BY WDTUTORIALS 2015 (6)
+https://www.youtube.com/watch?v=xkSIBeS_M7w&list=PLfdtiltiRHWE0uv1ZEL5d3Jt4i3qU-607		'AMAZON S3 WITH PHP BY CODECOURSE 2014 (6)
+https://www.youtube.com/watch?v=1-ok9d_6xrc&list=PLfdtiltiRHWGm8EAUXl2oBk5zjuvOTxsy		'SETTING UP CLOUD SERVER WITH DIGITALOCEAN BY CODECOURSE 2014 (8)
+https://www.youtube.com/watch?v=j4GCwp2N-BQ&list=PLoUqhPKdwRcblL0gTNJ0WtSlgZc5cDdEG		'WEB DEVELOPMENT ESSENTIALS BY CODECOURSE 2014 (67)*
+https://www.youtube.com/watch?v=aZ8I_Ym1cec&list=PLBOh8f9FoHHiARkBTLdo_35lHrC1tSW5y		'WEB EXTRAS BY HOWCODE 2013 (26)
+https://www.youtube.com/watch?v=VRg4XYwxRCE&list=PLnP2__kMGuBdc_DEUngOjl9JfuKdxUhh1		'WEB TECHNOLOGY BY MA 2014 (18)
+https://www.youtube.com/watch?v=1R9_WdXwUsE&list=PLo3w8EB99pqLRJBWRCoyGTIrkctoUgB9W		'FIREFOX DEVELOPER TOOL BATCH 1 BY MOZILLAHACKS 2014 (18)
+https://www.youtube.com/watch?v=QK4hKWmJVLo&list=PLo3w8EB99pqLZNY22xKbTEzMfYo9PXAlm&index=5	'FIREFOX DEVELOPER TOOL BATCH 2 BY MOZILLAHACKS 2016 (42)
+https://www.youtube.com/watch?v=eLGtNm4dSxc&list=PLAgylfU8wrtt5vU1l-ctUrPS_eF5Xow5F		'GOOGLE PLACES API BY LEARNTOPROGRAM 2015 (4)
+https://www.youtube.com/watch?v=Wz3Fe8eXMOg&list=PLWjCJDeWfDdcK0q3kJyY12Wjrq0A9Ljph		'IMAGE FORMATS BY THOMAS BRADLEY 2017 (6)
+https://www.youtube.com/watch?v=Iqg75AviCMk&list=PLWjCJDeWfDdd95etxxAqsXPHKhfqyx0Cn		'USING URLS BY THOMAS BRADLEY 2016 (5)
+https://www.youtube.com/watch?v=QsTeuAp9le4&list=PLWjCJDeWfDdcZsS2hq2chXDoZTSUpcKl5		'VIDEO AND AUDIO BY THOMAS BRADLEY 2015 (8)
+https://www.youtube.com/watch?v=_9NKELuDvQg&list=PLoUqhPKdwRcZOiS5kXyZ9gh0P9XAsAFWH		'SECURE SOCKET LAYER MIX TUTORIAL (16)*
+https://www.youtube.com/watch?v=WrfrmYzwa4o&list=PLD7683A6F45F47A22				'SSH SECURE SHELL TUTORIAL BY PUTTY 2010 (20)*
+https://www.youtube.com/watch?v=QTOkqzCTGxw&list=PLoUqhPKdwRcYavQnWsEMyJtJJnagseQuX		'DEPLOYMENT WEB & APPS (5)*
+https://www.youtube.com/watch?v=KAD-l__vek4&list=PL4cUxeGkcC9j85fkVyCzCMJDfteLtrl_y		'GRUNT JS TUTORIAL BY NETNINJA 2016 (6)
+https://www.youtube.com/watch?v=R3cbfZKfmkE&list=PLl-K7zZEsYLmnJ_FpMOZgyg6XcIGBu2OX		'FIREBASE ON THE WEB BY FIREBASE 2017 (20)
+https://www.youtube.com/watch?v=0jamhGf-8ww&list=PLYxzS__5yYQljbuGjaeugpqs9U07gS5P5		'IONIC FRAMEWORK TUTORIAL BY CODEDAMN 2016 (21)
+https://www.youtube.com/watch?v=oR-0wePpQPk&list=PLCQZxK8e2sqr6oLCRGZlJylNwhJI7VjRQ		'REACT NATIVE TUTORIAL BY NUAPPS 2016 (7)
+https://www.youtube.com/watch?v=EShch7iDIWE&list=PL_c9BZzLwBRKk9m5ketXHUD2ASE7z_ya9		'IT AND COMPUTER SCIENCE BY CALEB 2013 (13)
+https://www.youtube.com/watch?v=xkKcdK1u95s&list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn		'DEVELOPING RESTFUL API WITH JAX-RS BY JAVA BRAINS 2014 (31)
+https://www.youtube.com/watch?v=_2T1iSGULL4&list=PL032A5954701D543C				'OAUTH 2.0 TUTORIAL BY CA API 2011 (7)
+https://www.youtube.com/watch?v=YcbcfkLzgvs&list=PLRqwX-V7Uu6bb7z2IJaTlzwzIg_5yvL4i		'OBJECT ORIENTED PROGRAMMING (OOP) BY CODINGTRAIN 2015 (6)
+https://www.youtube.com/watch?v=UJcbFIV4JSQ&list=PLxvooGgpi4NeugSB4Pk546MXTPmGqPdc4		'OBJECT ORIENTED PROGRAMMING (OOP) CONCEPTS BY LEARNAPP 2016 (6)
+https://www.youtube.com/watch?v=lIPEvh8HbGQ&list=PLRqwX-V7Uu6a343yZ_JcPzIric4SOGqMZ		'DATA API & LANGUAGE PROCESSING LIBRARY BY CODINGTRAIN 2016 (13)
+https://www.youtube.com/watch?v=wZEovlzmLYw&list=PLSHmjAS1VO1s-0AzWRcnTlrXUqph4fzbs		'MOBILE TESTING WEB & NATIVE APPS BY QAEVERSITY 2014 (15)
+https://www.youtube.com/watch?v=IIRj8DftkqE&list=PLNYkxOF6rcIBiVPNwYbM6Y7gtp9NLbwG2		'TOOLING TIPS PROGRESSIVE WEB APPS BY GOOGLE 2016 (7)
+https://www.youtube.com/watch?v=17kGWJOuL-A&list=PLNYkxOF6rcIAdnzEsWkg0KpMn2WJwMBmN		'PROGRESSIVE WEB APPS BY GOOGLE 2017 (21)
+https://www.youtube.com/watch?v=2QJPAZMDwXk&list=PLRAV69dS1uWSa1lzXH4EtdF75TjNX_aeH		'LEARN CRYPTOGRAPHY BY HITESH 2014 (6)
+https://www.youtube.com/watch?v=qi19iT5LZic&list=PLHPcpp4e3JVp4b-EUdckTV6CbOIojYICo		'SEO TRAINING BY MYBRINGBACK 2012 (4)
+https://www.youtube.com/watch?v=GVZOJ1rEnUg&list=PLfdtiltiRHWGRPyPMGuLPWuiWgEI9Kp1w		'LEARN REGULAR EXPRESSIONS BY CODECOURSE 2014 (11)*
+https://www.youtube.com/watch?v=r6I-Ahc0HB4&list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD		'REGULAR EXPRESSION BY NETNINJA 2018 (16)
+https://www.youtube.com/watch?v=Y0lDGjwRYKw&list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f		'GRAPHQL TUTORIAL BY NETNINJA 2018 (36)
+https://www.youtube.com/watch?v=erl2yw-sq6E&list=PLf8BkXI6hjdjVRr2hdHHdCQ_w0MhQgeJQ		'USING SOCKET.IO WITH PHP BY WPHIRE 2017 (9)
+
+
+****************************************************************
+			ANDROID DEVELOPMENT
+****************************************************************
+https://www.youtube.com/watch?v=SUOWNXGRc6g&list=PL2F07DBCDCC01493A				'ANDROID DEVELOPMENT TUTORIAL BY THENEWBOSTON 2011 (200)
+https://www.youtube.com/watch?v=nBD4xhH5vIE&list=PLGLfVvz_LVvSPjWpLPFEfOCbezi6vATIh		'HOW TO MAKE ANDROID APPS BY DEREK BANAS 2014 (29)
+https://www.youtube.com/watch?v=EknEIzswvC0&list=PLS1QulWo1RIbb1cYyzZpLFCKvdYV_yJ-E		'ANDROID STUDIO TUTORIAL BY PROGRAMMINGKNOWLEDGE 2015 (52)
+https://www.youtube.com/watch?v=XGvUCx9FBS4&index=1&list=PL1AQFVBBuLpw_pLu2DXUBm-BoWEEc6frG	'ANDROID VOICE RECOGNITION MIX TUTORIAL BY MATTI 2011 (23)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

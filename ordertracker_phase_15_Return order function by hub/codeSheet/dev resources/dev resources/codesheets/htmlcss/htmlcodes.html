@@ -1,0 +1,201 @@
+<!-- --> <!--comment tag-->
+<!doctype html> <!--para malaman yung version ng html na ginamit-->
+<html></html> <!--html tag-->
+<head></head> <!--head tag-->
+<title></title> <!--title tag-->
+<meta></meta> <!--metadata tag. example: <meta charset = "utf-8"/>-->
+<body></body> <!--body tag-->
+<h1></h1> <!--headings-->
+<p></p> <!--paragraph tag-->
+<ul></ul> <!--unordered list tag-->
+<ol></ol> <!--ordered list tag-->
+<li></li> <!--list tag-->
+<dl></dl> <!--definition list tag-->
+<dt></dt> <!--definition term tag-->
+<dd></dd> <!--definition detail tag-->
+<strong></strong> <!--strong tag. gagawin bold letters yung word-->
+<em></em> <!--emphasis tag-->
+<blockquote></blockquote> <!--quote tag-->
+<a></a> <!--anchor tag-->
+<div></div> <!--division or container like tag-->
+<table></table> <!--table tag-->
+<tr></tr> <!--row tag-->
+<td></td> <!--column-->
+<hr></hr> <!--horizontal linebreak/rule-->
+<br> <!--linebreak-->
+<aside></aside> <!--side information or content-->
+<footer></footer> <!--footer tag-->
+<nav></nav> <!--navigation tag. parang container/division tulad ng div tag-->
+<h1><span>sampletext</span></h1> <!--span tag-->
+<article></article> <!--article tag-->
+
+<!--Let browser know website is optimized for mobile-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+<label for = "yourname"></label> <!--label tag-->
+<input id = "yourname" name = "yourname" maxlength = "" required /> <!--input tag. textbox-->
+<form action = "" method = ""></form> <!--form tag. method is how content of the form will be transmitted. action is where the data will be posted to-->
+<input type = "submit" value = "GO!" /> <!--submit button-->
+<input type = "reset" value = "Clear" /> <!--reset button-->
+<textarea id = "yourcomments" name = "yourcomments"></textarea> <!--textarea-->
+<input type = "checkbox" name = ""></input> <!--checkbox-->
+<input type = "radio" name = ""></input> <!--radio button-->
+<select><option>sampletext</option></select> <!--drop down list-->
+
+<img src = "imagefilename.jpg" alt = "description"/> <!--picture na may description in case ndi available ung image-->
+
+<a href = "filename"></a> <!--link tag-->
+<a href = "foldername/filename"></a> <!--link folder tag-->
+<a href = "../filename"></a> <!--go up to parent directory tag-->
+
+<div id = "idname"></div> <!--identification tag. good practice to target only one element-->
+<div class = "classname"></div> <!--class tag. good practice to target group element-->
+
+<head><style>p {font-family: san-serif;}</style></head> <!--embedded stylesheet-->
+<p style = "font-family: san-serif;">sampletext</p> <!--inlined stylesheet-->
+<link rel = "stylesheet" href = "filename.css"> <!--external stylesheet-->
+<a href="url or file to target" target="_blank"></a> <!-- (target attr ) _blank value open the target url in new tab in the browser -->
+
+&nbsp; <!--pixel indention-->
+
+
+<!-- div>header>h2{website}+nav>ul>li*3>a[href="#"].anchor{item$} EMMET CODE SHORTCUTS (ctrl+alt+enter)-->
+<!-- hello, ${1:how} are you doing, ${2:today}. (this is for code snippets, 
+inside the curly brackets are the tab index) then save it on user folder inside sublime
+and name it snippetname.sublime-snippet-->
+<header>
+<h1>Our HTML5 Site</h1>
+<nav>
+<ul>
+<li><a href="#" class="portfolio-item" data-portfolio-item="1">Nav Item #1</a></li>
+</ul>
+</nav>
+</header>
+<main>
+<article>
+<header>
+<h2>Blog Post Title</h2>
+<div style="background-color: black; position: relative;">
+<span style="background-color: yellow;">span1</span>
+</div>
+<div><span style="background-color: blue; position: relative;">span2</span></div>
+<div><span style="background-color: green;">span3</span></div>
+<p><time datetime="2013-06-22T19:00-05:00">time tags denotes time and tell the browser that this the time meta data</time></p>
+</header>
+<!-- custom html attributes -->
+<a href="#" class="portfolio-item" data-portfolio-item="1"><img src="image/image.jpg" alt="" width="100px" height="100px"></a>
+<video src="video/welcome.mp4" controls></video>
+<!-- use this tag structure to support multiple video format -->
+<video controls tabindex="" autoplay loop muted preload="none" poster="image/image.jpg"> <!-- preload will download the video automatically --> <!-- poster is the thumbnail -->
+<source src="video/welcome.mp4" type="video/mp4">
+<source src="video/welcome.webm" type="video/webm">
+</video>
+<!-- download mirovideoconverter to convert video formats -->
+<!-- visit sandbox.thewikies.com/vfe-generator/ for flash video format generator -->
+<p></p>
+<figure> <!-- figure is used to tell the browser that it is a caption -->
+<img src="" alt="">
+<figcaption>caption for figure element</figcaption>
+</figure>
+<audio controls>
+	<source src="audio.mp3" type="">
+	<source src="audio.ogg" type="">
+</audio>
+<!-- also search audio for everybody for audio compatibility format -->
+</article>
+</main>
+<section>
+	<form action="" method="">
+		<input type="number" min="" max="" step=""> <!-- step will tell the input to increment by certain value -->
+		<input type="range" min="5" max="10">
+		<input type="date">
+		<input type="color">
+		<input type="text" list="input-list">
+		<datalist id="input-list">
+			<option value="val1" label="val1"></option>
+			<option value="val1" label="val1"></option>
+			<option value="val1" label="val1"></option>
+		</datalist>
+		<input type="email">
+		<input type="url">
+		<input type="tel">
+		<input type="search">
+		<input type="text" placeholder="" pattern="[a-zA-Z]*" required>
+	</form>
+</section>
+<aside>
+<!-- aside means that it is not the main content -->
+</aside>
+<footer></footer>
+
+
+<!-- learning svg -->
+<!-- svg's are scalable and customizable graphics -->
+
+
+<!-- calling embedded svg -->
+<!-- everything inside the svg tag are xml elements -->
+<svg>
+	<use href="#svgId"></use>
+</svg>
+
+<!-- creating your own svg -->
+<!-- 
+svg width & height = size of the svg viewport  
+svg viewport - is the size of the viewable area
+svg viewbox - controls what is inside the svg viewport / viewable area
+-->
+<!-- 
+viewBox="(xy coordinates) (viewBox size)"
+viewBox - controls the panning and zooming of elements insided the svg viewport
+basically the xy coord controls the panning
+& viewBox width height controls the zooming
+-->
+<svg viewBox="0 0 300 300">
+<svg width="250" height="250">
+	<!-- 
+	for circle
+	r = radius, 
+	cx & cy = coordinates axis from center, 
+	fill = background 
+	stroke = border
+	stroke-width = border size
+	-->
+	<circle r="125" cx="125" cy="125" fill="" stroke="black" stroke-width=""/>
+	
+	<!-- 
+	for rectangle
+	x & y = coordinations from top and left
+	rx & ry = rounded corners
+	-->
+	<rect rx="" ry="" x="" y="" height="" width=""/>
+
+	<!-- 
+	svg code order: elements top to bottom = will be 
+	rendered back to front
+	-->
+
+	<!-- 
+	for line
+	x1 & y1 = coordinates
+	x2 & y2 = starting and ending point
+	-->
+
+	<line x1="" y1="" x2="" y2="" stroke="black" stroke-width=""/>
+
+	<!-- 
+	for polygon
+	points = points coordinates of lines in polygons
+	points = "x,y x,y x,y"
+	polygons only for straight line and cannot be use for curves
+	-->
+
+	<polygon fill="pink" points="50,50 200,50 200,200" />
+</svg>
+
+
+
+
+
+
+

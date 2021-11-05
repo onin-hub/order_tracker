@@ -1,0 +1,100 @@
+cd..				        - up one directory
+cd [foldername]	            - go to directory
+ls 					        - list files inside folder
+mkdir 				        - create directory (folder)
+touch 				        - create file
+rm 					        - remove file
+rmdir 				        - remove directory (folder)
+cls					        - clear screen
+netstat -aon                - list all used ports
+netstat -aon | findstr :80  - list all apps that uses specific port
+
+<!-- initializing git -->
+git config --global user.name [username]		- define username
+git config --global user.email [email]			- define email
+git init 										- initialize git 
+
+<!-- modifying, staging, committing -->
+git status 										- show file status if modified, on stage, committed
+git add [filename]								- add a file to staging area (staging is simply selecting a file you want to commit)
+git add . 										- add all files to staging area
+git commit -m [commit name] 					- create a commit
+git log											- show log with details
+git log --oneline 								- show log in one line
+
+<!-- checkout, revert, reset -->
+<!-- use checkout commit to go back in a certain commit point -->
+git checkout [commit id] 						- go back to a certain commit point
+<!-- use revert commit to undo a certain commit point -->
+<!-- after revert, type :wq to exit the revert editor -->
+git revert [commit id]							- undo a certain commit point
+<!-- use reset commit to permanently delete commit points but preserve current code state -->
+git reset [commit id]							- remove all previous commit points
+<!-- use hard reset to permanently delete commit points including the code state -->
+git reset [commit id] --hard					- remove all previous commit points including code state
+
+<!-- branching -->
+<!-- create branch if you want to isolate a new feature from the master branch -->
+git branch [branch name]						- create a branch
+git branch -a									- show all branches
+<!-- * master, an asterisk indicate your current branch your working with -->
+<!-- moving to a certain branch -->
+git checkout [branch name]						- go to a certain branch
+<!-- deleting a branch -->
+<!-- before deleting a branch, make sure you are on the master branch -->
+<!-- lowercase "d" will only work on merged branch -->
+git branch -d [branch name]						- delete merged branch
+<!-- use uppercase "D" to delete unmerged branch -->
+git branch -D [branch name]						- delete unmerged branch
+<!-- use shorthand for creating a branch and checking out at the sametime -->
+git checkout -b [branch name]					- create and checkout branch
+<!-- merging a certain branch to the master branch -->
+<!-- first make sure your on the master branch before merging -->
+git merge [branch name]							- merge a branch
+<!-- in dealing with conflict, just remove the comment and,
+merged the branch on the master branch -->
+git merge										- merging the conflict branch
+
+<!-- github -->
+<!-- uploading your local repository to remote (github) -->
+<!-- first step is to create a remote repo -->
+<!-- copy the url of the remote repo -->
+<!-- push your local repo to remote -->
+git push [repo link] [branch name]				- push local to remote repo
+<!-- creating an alias for remote repo link -->
+<!-- 'origin' most used remote alias -->
+git remote add origin [repo link]				- creating alias for remote repo
+git push [alias] [branch name] 					- using the push with alias / nickname
+git push --all origin							- push all branch on remote repo
+
+<!-- pulling from remote repo to local -->
+<!-- first step is to create a remote repo -->
+<!-- second step is to clone the remote repo to your local directory -->
+git clone [repo link]							- cloning remote repo
+<!-- note: cloned repo already has an alias (origin) -->
+git remote -v 									- show alias details
+
+<!-- collaboration on github -->
+<!-- fetching files from remote to local repo -->
+git pull [alias] [branch name]					- fetching from remote to local
+
+<!-- best practice: 
+- work on a new branch for new feature to avoid
+messing up with the master branch
+- always pull the master branch from remote repo before working on new feature
+to stay updated from changes -->
+
+<!-- after you pull your new feature to remote repo,
+you have to create a pull request -->
+
+<!-- then you can delete the branch in remote repo if it
+is already been merged (optional). -->
+
+<!-- forking from different github repo -->
+<!-- first you have to fork the repo from someone's account to your account,
+the you can clone it to your local directory -->
+
+<!-- then click new pull request -->
+<!-- then on original account create a pull request -->
+<!-- then the owner of the repo can now review and merge your changes -->
+

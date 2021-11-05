@@ -1,0 +1,52 @@
+https://css-tricks.com/							'CSS TIPS, TRICKS AND TUTORIALS
+http://devdocs.io/							'API DOCUMENTATION
+https://zealdocs.org/							'OFFLINE DOCUMENTATION AND PLUGINS
+https://developer.microsoft.com/en-us/					'MICROSOFT DEVELOPER NETWORK
+http://forum.wampserver.com/read.php?2,138295,138295#msg-138295		'WAMPSERVER UNOFFICIAL DOCUMENTATION (MANUAL AMP INSTALLATION INCLUDED)
+https://developers.google.com/speed/libraries/				'GOOGLE HOSTED LIBRARIES
+http://php.net/manual/en/book.pdo.php					'PHP DOCUMENTATION PDO 
+https://phppot.com/php/							'PHP AND JQUERY WEB PROJECTS
+https://laravel.com/docs/6.x						'LARAVEL DOCUMENTATION
+https://sass-lang.com/guide						'SASS DOCUMENTATION
+https://vuejs.org/v2/guide/						'VUE JS DOCUMENTATION
+https://vuetifyjs.com/en/getting-started/quick-start			'VUETIFY DOCUMENTATION
+https://git-scm.com/docs						'GIT DOCUMENTATION
+https://restfulapi.net/							'REST API DOCUMENTATION
+https://www.w3.org/standards/xml/core					'XML TECHNOLOGIES DOCUMENTATIONS
+https://developer.mozilla.org/en-US/					'MOZILLA DEVELOPER NETWORK
+https://developer.mozilla.org/en-US/docs/Web				'MOZILLA WEB TECHNOLOGIES DOCS
+https://developer.mozilla.org/en-US/docs/Tools				'MOZILLA FIREFOX DEVELOPER TOOL
+https://developer.chrome.com/devtools					'CHROME DEVTOOLS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
